@@ -1,0 +1,17 @@
+version: "0.5"
+
+log_level: info
+log_length: 1000
+
+processes:
+  marimo:
+    command: >-
+      bash -lc 'if [ -n "$${NOTEBOOK_FILE:-}" ]; then
+       exec uv run --project "$${NOTEBOOK_PROJECT_ROOT:-$PWD}" --locked marimo edit "$${NOTEBOOK_FILE}" --host 127.0.0.1;
+       else exec uv run --project "$${NOTEBOOK_PROJECT_ROOT:-$PWD}" --locked marimo edit --host 127.0.0.1; fi'
+    description: "Editable marimo notebook on an available localhost port"
+    is_tty: true
+    availability:
+      restart: "no"
+    environment:
+      - "PYTHONUNBUFFERED=1"
