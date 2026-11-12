@@ -4,15 +4,21 @@
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
+    devDB.url = "github:hermann-p/nix-postgres-dev-db";
+    devDB.inputs.nixpkgs.follows = "nixpkgs";
   };
 
-  outputs = { self, nixpkgs, flake-utils }:
+  outputs = { self, nixpkgs, flake-utils, devDB }:
     flake-utils.lib.eachSystem [ "x86_64-linux" "aarch64-linux" "aarch64-darwin" ] (system:
       let
         pkgs = import nixpkgs {
           inherit system;
           config.allowUnfree = true;
         };
+        db = devDB.outputs.packages.${system};
+        postgres = pkgs.postgresql_17.withPackages (ps: [
+          ps.pgvector
+        ]);
         lib = pkgs.lib;
         isLinux = pkgs.stdenv.hostPlatform.isLinux;
 
@@ -25,7 +31,7 @@
           runtimeInputs = [ pkgs.coreutils ];
           text = ''
             # marimo runs `playwright install`; its registry must be writable.
-            cache="''${XDG_CACHE_HOME:-$HOME/.cache}/ai-semester/${builtins.baseNameOf (toString playwrightBrowsers)}"
+            cache="''${XDG_CACHE_HOME:-$HOME/.cache}/RAG-OERBOTJE/${builtins.baseNameOf (toString playwrightBrowsers)}"
             for browser_dir in "${playwrightBrowsers}"/*; do
               target="$cache/''${browser_dir##*/}"
               mkdir -p "$target"
@@ -68,9 +74,9 @@
           pandoc
           graphviz
           jq
-           fzf
-           curl
-           wget
+          fzf
+          curl
+          wget
           htop
           ninja
           cmake
@@ -251,11 +257,13 @@
           shellHook = ''
             export UV_PYTHON_PREFERENCE=only-system
             export DATASET_INBOX_ROOT="$PWD"
+            export UV_PYTHON="${pkgs.python312}/bin/python3.12"
+            export UV_PYTHON_DOWNLOADS=never
             ${projectSetup}/bin/school-setup
             export VIRTUAL_ENV="$PWD/.venv"
             ${browserRuntimeHook}
             export LD_LIBRARY_PATH="${lib.makeLibraryPath [ pkgs.stdenv.cc.cc.lib pkgs.zlib ]}:''${LD_LIBRARY_PATH:-}"
-            export PATH="$VIRTUAL_ENV/bin:${shellPath}:$PATH"
+            export PATH="${lib.makeBinPath [ pkgs.uv ]}:$VIRTUAL_ENV/bin:${shellPath}:$PATH"
             if [ -t 1 ]; then
               printf '\nSchool environment ready. Run school-help for commands.\n\n'
             fi
@@ -276,14 +284,25 @@
 
         cudaShell = pkgs.mkShell {
           packages = commonPackages;
+          buildInputs = [
+            postgres
+            db.start-database
+            db.stop-database
+            db.psql-wrapped
+          ];
           shellHook = ''
             export UV_PYTHON_PREFERENCE=only-system
             export DATASET_INBOX_ROOT="$PWD"
+            export UV_PYTHON="${pkgs.python312}/bin/python3.12"
+            export UV_PYTHON_DOWNLOADS=never
+            export PG_ROOT="$(git rev-parse --show-toplevel)"
             ${projectSetup}/bin/school-setup
             export VIRTUAL_ENV="$PWD/.venv"
             ${notebookRuntimeHook}
-            export PATH="$VIRTUAL_ENV/bin:${shellPath}:$PATH"
-            printf '\nCUDA shell enabled when compatible NVIDIA hardware is available.\n\n'
+            export PATH="${lib.makeBinPath [ pkgs.uv ]}:$VIRTUAL_ENV/bin:${shellPath}:$PATH"
+            if [ -t 1 ]; then
+              printf '\nSchool CUDA environment ready. Run school-help for commands.\n\n'
+            fi
           '';
         };
       in
