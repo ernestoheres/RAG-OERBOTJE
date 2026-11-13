@@ -1,0 +1,15 @@
+{% if question %}
+<div class="message question"><strong>Jij</strong><p>{{ question }}</p></div>
+{% endif %}
+<div class="message">
+  <strong>OER Botje</strong>
+  <p>{{ error if error else result.answer }}</p>
+  {% if result and result.sources %}
+  <details>
+    <summary>Bronnen</summary>
+    {% for source in result.sources %}
+    <p class="source"><strong>Blok {{ source.blok }} · score {{ source.score }}</strong><br>{{ source.tekst }}</p>
+    {% endfor %}
+  </details>
+  {% endif %}
+</div>

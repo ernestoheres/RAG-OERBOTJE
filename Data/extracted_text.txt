@@ -1,0 +1,2056 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Opleidingsdeel Onderwijs- en 
+Examenregeling 2026-2027 
+ICT 
+ 
+ 
+ 
+Voor de voltijdse 
+ Bacheloropleiding 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+2 
+ 
+INHOUDSOPGAVE 
+1 
+Welkom ................................................................................................................. 4 
+2 
+Doel en context van deze onderwijs- en examenregeling..................................... 5 
+3 
+Waar wordt de student voor opgeleid ................................................................... 6 
+3.1 
+De kern van de opleiding ................................................................................... 6 
+3.2 
+De competenties of leeruitkomsten van de opleiding ..................................... 7 
+3.3 
+De relatie tussen de opleiding en het beroepenveld ...................................... 10 
+4 
+Inrichting van de opleiding .................................................................................. 12 
+4.1 
+Vorm van de opleiding ..................................................................................... 12 
+4.2 
+Globale inrichting van de opleiding ................................................................. 12 
+4.3 
+De propedeutische fase  van de bacheloropleiding ....................................... 13 
+4.3.1 
+Van de propedeutische fase naar de hoofdfase ................................... 14 
+4.4 
+De beroepsruimte van de bacheloropleiding (verdere uitwerking art.15 
+instellingdeel) ................................................................................................... 14 
+4.4.1 
+Het programma van de beroepsruimte .................................................. 15 
+4.4.2 
+Eigen leerroute in de beroepsruimte ...................................................... 18 
+4.4.3 
+Inrichting van de stage en/of andere praktijkonderdelen ...................... 18 
+4.4.4 
+Inrichting van de bachelor eindfase en afstudeerrichtingen ................. 18 
+4.5 
+Vrije ruimte (verdere uitwerking art.15 instellingdeel) .................................. 21 
+4.6 
+Extracurriculair onderwijs................................................................................ 22 
+4.7 
+Studeren in het buitenland .............................................................................. 23 
+5 
+De student en het onderwijs................................................................................ 24 
+5.1 
+Studiebegeleiding en de eigen verantwoordelijkheid van de student .......... 24 
+5.2 
+Kwaliteit en studeerbaarheid .......................................................................... 25 
+5.3 
+Evaluatie van het onderwijs ............................................................................. 26 
+6 
+Toetsing .............................................................................................................. 27 
+6.1 
+Gebruik van generatieve a.i. in het onderwijs ................................................ 27 
+6.2 
+Toetsvormen .................................................................................................... 28 
+6.3 
+Eindniveau ........................................................................................................ 28 
+6.4 
+Toetsplanning, kansen en gelegenheden ...................................................... 28 
+6.5 
+Toetsprogramma en alternatieven ................................................................. 29 
+6.6 
+In- en uittekenen .............................................................................................. 29 
+7 
+Overzicht onderwijseenheden ............................................................................. 31 
+7.1 
+Overzicht onderwijseenheden ........................................................................ 31 
+7.2 
+Overgangsregeling .......................................................................................... 31 
+
+
+ 
+ 
+3 
+ 
+8 
+Accreditatie ......................................................................................................... 32 
+9 
+Tot slot ................................................................................................................ 33 
+9.1 
+Bezwaar en beroep .......................................................................................... 33 
+9.2 
+Bijlagen bij onderwijs- en examenregeling ..................................................... 33 
+9.3 
+Niet voorziene situaties ................................................................................... 33 
+9.4 
+Inwerkingtreding, openbaarmaking, looptijd en vaststelling ......................... 33 
+ 
+ 
+ 
+
+
+ 
+ 
+4 
+ 
+1 
+WELKOM 
+ 
+Beste student, 
+ 
+Op Windesheim werken wij met de Onderwijs-en ExamenRegeling (de OER).   
+ 
+Dit is het Opleidingsdeel van de Onderwijs- en Examenregeling van de opleiding ICT 
+(voorheen HBO-ICT) op locatie Zwolle voor het studiejaar 2026-2027. 
+ 
+In de Onderwijs- en Examenregeling staan de rechten en plichten voor zowel de student als 
+voor Windesheim. De Onderwijs- en Examenregeling bestaat voor elke opleiding uit twee 
+delen: 
+ 
+- 
+Het Instellingsdeel Onderwijs- en Examenregeling; en  
+- 
+Het Opleidingsdeel Onderwijs- en Examenregeling.  
+ 
+Het instellingsdeel bevat de hoofdregels voor de gehele hogeschool en wordt voor heel 
+Windesheim vastgesteld.  
+In dit opleidingsdeel heeft de opleiding, met goedkeuring van de opleidingscommissie (OC) 
+en Deelraad, deze hoofdregels verder uitgewerkt voor de opleiding.  
+ 
+Windesheim kiest ervoor om de Onderwijs- en Examenregeling per studiejaar vast te 
+stellen. Dit opleidingsdeel is geldig vanaf 1 september 2026 tot 1 september 2027. De 
+keuze voor deze periode is gemaakt om de actualiteit van het onderwijs te borgen. 
+Vanwege de instemming van de medezeggenschapsorganen staat deze regeling dan ook 
+vast gedurende één studiejaar.  
+ 
+Het instellingsdeel en het opleidingsdeel zijn onlosmakelijk met elkaar verbonden. Bij een 
+eventuele strijdigheid van het opleidingsdeel met het instellingsdeel gelden de regels van 
+het instellingsdeel.  
+ 
+ 
+
+
+ 
+ 
+5 
+ 
+2 
+DOEL EN CONTEXT VAN DEZE ONDERWIJS- EN EXAMENREGELING 
+ 
+De Onderwijs- en Examenregeling mag gezien worden als een overzicht van de rechten en 
+verplichtingen voor zowel de student als voor de opleiding. Windesheim kiest voor een 
+Onderwijs- en Examenregeling die een jaar geldig is. Hierdoor wordt elk jaar deze regeling 
+herzien en opnieuw vastgesteld. Er is voor deze werkwijze gekozen om de actualiteit van het 
+curriculum te borgen. De student dient dus altijd goed te controleren of het de versie betreft 
+van het lopende collegejaar. 
+ 
+ 
+ 
+
+
+ 
+ 
+6 
+ 
+3 
+WAAR WORDT DE STUDENT VOOR OPGELEID 
+ 
+3.1 
+DE KERN VAN DE OPLEIDING 
+ 
+“De opleiding ICT is de brede toegangspoort naar innovatieve ICT-kennis. Hier vind je 
+inspiratie en ruimte om te experimenteren, leren en onderzoeken. Het diploma heeft 
+betekenis, studenten en medewerkers zijn trots op hun opleiding. Deuren staan open; we 
+groeien als professionals in contact met elkaar.” (Ambitie ICT Windesheim) 
+  
+De opleiding ICT leidt professionals op in de volle breedte van het ICT-vakgebied. De 
+opleiding leidt op tot zowel generalisten als specialisten. Studenten worden opgeleid om 
+een bijdrage te kunnen leveren aan de belangrijke transities in de maatschappij zoals 
+digitalisering en de energietransitie. We leggen niet alleen de focus op de technische 
+aspecten van het vakgebied maar ook op professionele vaardigheden. Studenten kunnen 
+zich specialiseren in Embedded Software Engineering (Zwolle), Software Engineering 
+(Zwolle, Almere), Business IT & Management (Zwolle, Almere), Applied Data Science & AI 
+(Zwolle, Almere), Cloud and Security Engineering (Zwolle) of User Experience Design 
+(Zwolle, Almere). 
+  
+Onze opleiding kenmerkt zich door vijf kernbegrippen: betrokkenheid, praktijkgerichtheid, 
+keuzevrijheid, waarde(n)volle professional en loopbaangerichte begeleiding. 
+  
+Betrokkenheid 
+Deuren staan altijd open. Docenten, medewerkers bedrijfsvoering en management zijn 
+zowel beschikbaar als benaderbaar. Er is een informele, gemoedelijke sfeer tussen 
+studenten en medewerkers waarbij leren en fouten mogen maken hand in hand gaan. 
+Docenten hebben veel invloed op het onderwijsprogramma en voelen binnen de 
+onderwijsteams eigenaarschap en verantwoordelijkheid. Er is nauwe samenwerking en 
+interactie tussen studenten en docenten. Ondanks de grootte van de opleiding zien 
+studenten en medewerkers ons als kleinschalig. We organiseren veel evenementen waarbij 
+we elkaar ontmoeten. 
+  
+Praktijkgerichtheid 
+We werken met zoveel mogelijk opdrachten die geïnspireerd zijn op en relevant zijn voor de 
+beroepspraktijk en stimuleren daarbij een onderzoekende houding. We sluiten aan op 
+regionale ontwikkelingen en ondersteunen kennisuitwisseling in de regio. Voor het 
+bedrijfsleven bieden we een duidelijk loket. Als de regio vraagt om nieuwe thema’s kunnen 
+we hier snel op inspringen. We bieden veel ruimte in ons curriculum voor maatschappelijk 
+relevante projecten. 
+  
+Waarde(n)volle professionaliteit 
+We hechten veel waarde aan intermenselijke vaardigheden en leiden daardoor professionals 
+op die voorbij de grenzen van hun eigen vakgebied kijken en oog hebben voor gevolgen van 
+technologie. Dit doen we door middel van multidisciplinaire, soms internationale projecten, 
+maar ook door een doorlopende lijn op professionele vaardigheden aan te bieden en 
+aandacht te geven aan ethiek, diversiteit, inclusiviteit en duurzaamheid. Effectief en bewust 
+handelen, reflectie en communicatie staan hierbij centraal. We stimuleren studenten om ook 
+over de landsgrenzen heen te kijken en maken internationale uitwisseling voor iedere 
+student mogelijk. 
+  
+Keuzevrijheid 
+We leiden specialisten op in diverse disciplines, maar ook professionals op de grensvlakken 
+
+
+ 
+ 
+7 
+ 
+van traditionele vakgebieden door samen te werken met andere opleidingen. We leiden op in 
+de architectuurlagen gebruikersinteractie, organisatieprocessen, infrastructuur, software en 
+hardware interfacing. Studenten kunnen een eigen leerroute samenstellen uit een uitgebreid 
+keuzeaanbod. 
+  
+Loopbaangerichte begeleiding 
+We hebben veel aandacht voor de begeleiding van studenten op het gebied van 
+studiekeuzes en op persoonlijk vlak. We kennen onze studenten en begeleiden hen met 
+positieve energie naar een diploma. We stimuleren studenten zichzelf uit te dagen en ook af 
+en toe buiten hun comfortzone te stappen, omdat dit de persoonlijke groei en ontwikkeling 
+van studenten bevordert. We nemen functiebeperkingen serieus en zorgen voor passend 
+onderwijs en begeleiden studenten naar passend werk. We houden rekening met 
+verschillende achtergronden van studenten. 
+ 
+  
+Onze visie op onderwijs is gericht op vier pijlers: 
+− 
+Een sterke kennisbasis: basisconcepten worden goed aangeleerd 
+− 
+Actuele opdrachten uit de praktijk 
+− 
+Samen werken in (multidisciplinaire) teams 
+− 
+Metacognitie: het managen van het eigen leerproces 
+  
+Deze visie op onderwijs ligt ten grondslag aan ons onderwijsmodel waarbij we werken met 
+op basis van een thema afgebakende semesters, waarin studenten gedurende een half jaar 
+door een klein team van docenten begeleid worden. Opdrachten zijn authentiek en sluiten 
+aan op wat er in de beroepssituatie van professionals verwacht wordt. 
+  
+Voor studenten vanaf cohort 2024 werken we in al onze semesters volgens de principes van 
+programmatisch onderwijs. Studenten mogen fouten maken en de focus ligt op 
+ontwikkeling in plaats van beoordeling. We beoordelen niet of de student alles kent, kan en 
+begrijpt maar of de student klaar is voor de volgende stap in de leerroute. 
+ 
+ 
+3.2 
+DE COMPETENTIES OF LEERUITKOMSTEN VAN DE OPLEIDING 
+ 
+De leeruitkomsten van de opleiding ICT zijn direct gerelateerd aan de landelijke HBO-i 
+domeinbeschrijving1. Afhankelijk van de te volgen leerroute binnen de gekozen 
+afstudeerrichting toont iedere student een bijbehorende set van leeruitkomsten aan. 
+ 
+De HBO-i domeinbeschrijving is een landelijk kader voor de eindkwalificaties op associate 
+degree-, bachelor- en professional masterniveau voor afgestudeerden van Nederlandse hbo-
+opleidingen in het ICT-domein. De domeinbeschrijving wordt onderhouden door de Stichting 
+HBO-i. Gerelateerd aan en geïnspireerd door internationale ontwikkelingen, frameworks en 
+formats wordt de domeinbeschrijving in samenwerking met het bedrijfsleven periodiek 
+geactualiseerd en door de Vereniging van Hogescholen vastgesteld. 
+ 
+De domeinbeschrijving beschrijft de vakinhoud in drie dimensies: beheersingsniveaus, 
+activiteiten en architectuurlagen. 
+ 
+ 
+1 Domeinbeschrijving HBO-I. (2023). [Pdf]. Stichting HBO-I. https://www.hbo-i.nl/wp-
+content/uploads/2024/02/24040_HBOi_Domeinbeschrijving_NL.pdf 
+
+
+ 
+ 
+8 
+ 
+Beheersingsniveaus 
+De eerste dimensie van de HBO-i domeinbeschrijving is het beheersingsniveau. Dit bepaalt 
+het opleidingsniveau. Het beheersingsniveau wordt bepaald door de complexiteit van 
+context, de complexiteit van de inhoud en de zelfstandigheid bij de uitvoering van de 
+opdracht. Een beheersingsniveau wordt bereikt wanneer twee van de drie facetten op het 
+betreffende niveau liggen. 
+ 
+Tabel 1: beheersingsniveaus 
+Niveau 
+Zelfstandigheid 
+Complexiteit context 
+Complexiteit inhoud 
+1 (Taakgericht) 
+Werkt onder algemene 
+richtlijnen in een 
+omgeving waar 
+onvoorspelbare 
+veranderingen 
+plaatsvinden. 
+Gestructureerd 
+voorspelbare context, 
+probleem afgebakend, 
+aanpak en oplossing 
+bekend bij 
+opdrachtgever. 
+Enkele basisconcepten 
+die voortbouwen op de 
+vooropleiding. 
+2 
+(Probleemgericht) 
+Lost zelfstandig 
+interactieve kwesties op 
+die voortvloeien uit 
+projectactiviteiten. 
+Gestructureerd – 
+onvoorspelbare 
+context, probleem 
+gegeven, keuze 
+aanpak en 
+oplossingsruimte 
+beperkt. 
+Combinatie van 
+meerdere 
+basisconcepten en 
+enkele verdiepende 
+concepten die 
+voortbouwen op 
+basisconcepten. 
+3 (Situatiegericht) 
+Werkt onafhankelijk om 
+interactieve problemen 
+op te lossen. Heeft een 
+positief effect op de 
+teamprestaties. 
+Gestructureerd – 
+onvoorspelbare 
+context, vage 
+problemen, aanpak en 
+oplossingsruimte 
+open. 
+Combinatie van 
+meerdere concepten 
+voor verdieping en 
+innovatie in de lokale 
+situatie. 
+4 (Professiegericht) 
+Coördineert en bestuurt. 
+Stelt kwesties aan de 
+orde met veel 
+interacterende factoren. 
+Ongestructureerde 
+multidisciplinaire en/of 
+specialistische 
+context. 
+Nieuwe concepten voor 
+verdieping en innovatie 
+die overdraagbaar zijn 
+naar andere situaties. 
+ 
+Activiteiten 
+De tweede dimensie van de beroepstaken bestaat uit de vijf activiteiten ‘analyseren’, 
+‘adviseren’, ‘ontwerpen’ ‘realiseren’ en ‘manage & control’. Deze activiteiten zijn gebaseerd 
+op de ‘system en software development life cycle’. Elke student uit het HBO-i 
+opleidingsdomein moet deze activiteiten uit kunnen voeren binnen de eigen beroepscontext. 
+Daarbij kunnen uiteenlopende processen toegepast worden: van een meer lineaire aanpak 
+met duidelijk onderscheiden fasen tot agile aanpakken met een iteratief proces, waarin 
+verschillende activiteiten simultaan uitgevoerd worden. De activiteit ‘manage & control’ 
+omvat de inrichting en het beheer van dit proces. In de reeks van activiteiten wordt deze als 
+laatste genoemd om de relatie met de andere activiteiten beter te kunnen maken. De 
+uitvoering van een beroepstaak zal echter vaak met ‘manage & control’ beginnen. Bij alle 
+activiteiten zijn kwaliteitsaspecten, zoals beveiliging, budget, tijd en duurzaamheid, van 
+groot belang. 
+ 
+ 
+
+
+ 
+ 
+9 
+ 
+ 
+Tabel 2: activiteiten 
+Activiteit 
+Omschrijving 
+Analyseren 
+Het analyseren van processen, producten en informatiestromen in hun onderlinge 
+samenhang en context. 
+Adviseren 
+Het adviseren over de inrichting van processen en/of informatie voor een nieuw te 
+ontwikkelen, aan te schaffen of aan te passen ICT-systeem. 
+Ontwerpen 
+Het ontwerpen van een (deel van een) ICT-systeem op basis van requirements. 
+Realiseren 
+Het realiseren en testen van een (deel van een) ICT-systeem op basis van een 
+ontwerp. 
+Manage & 
+Control 
+Het beheren, monitoren en optimaliseren van de ontwikkeling, de ingebruikname 
+en het gebruik van ICT-systemen. 
+ 
+Architectuurlagen  
+De derde dimensie van de beroepstaken wordt gevormd door vijf architectuurlagen. Deze 
+zijn geïnspireerd door enterprise- en software-architectuurmodellen: gebruikersinteractie, 
+organisatieprocessen, infrastructuur, software en hardware interfacing. Omdat de 
+activiteiten betrekking kunnen hebben op verschillende aspecten van ict-systemen, kunnen 
+ze inhoudelijk heel verschillend zijn. De architectuurlagen zijn bedoeld om deze inhoudelijke 
+differentiatie zichtbaar te maken en de breedte van het domein weer te geven. De volgorde 
+van de vijf architectuurlagen is niet willekeurig. Elke laag voegt functionaliteit of waarde toe 
+aan de onderliggende laag en maakt gebruik van ‘services’ uit die laag: gebruikersinteractie 
+ontsluit door ICT gefaciliteerde organisatieprocessen die gebouwd zijn op een 
+geconfigureerde infrastructuur die is opgebouwd uit (geprogrammeerde) hard- en 
+softwarecomponenten die (eventueel) via hardware interfaces verbonden zijn met hardware-
+systemen. 
+ 
+Tabel 3: architectuurlagen 
+Architectuurlaag 
+Omschrijving 
+Gebruikersinteractie 
+De architectuurlaag ‘gebruikersinteractie’ heeft betrekking op de 
+communicatie tussen (eind)gebruiker en ict-systeem. Hier wordt 
+nadrukkelijk niet de interactie bedoeld met gebruikers, zoals die 
+plaatsvindt tijdens het tot stand komen van een ict-systeem; dat is immers 
+in elk van de architectuurlagen aan de orde. 
+Organisatieprocessen 
+De architectuurlaag ‘organisatieprocessen’ heeft betrekking op het 
+faciliteren van organisatieprocessen door middel van ict-systemen. 
+Daarbij gaat het om de functionaliteit van het systeem als geheel 
+(geautomatiseerde en niet-geautomatiseerde delen), bezien vanuit de 
+context van de te realiseren organisatiedoelen. 
+Infrastructuur 
+De architectuurlaag ‘infrastructuur’ betreft het geheel aan ict-systemen 
+waarmee organisatieprocessen gefaciliteerd worden. Het gaat hier om 
+beschikbaar stellen, beschikbaar houden en configureren van de 
+traditionele hardware-infrastructuur, maar zeker ook de software-
+infrastructuur 
+Software 
+De architectuurlaag ‘software’ betreft het ontwikkelen van diverse soorten 
+software. Dit betreft software die na oplevering wordt opgenomen in een 
+ICT-infrastructuur.  
+Hardware Interfacing 
+De architectuurlaag ‘hardware interfacing’ betreft software die interactie 
+aangaat met beschikbare hardware. Hierbij gaat het om situaties waarbij 
+in de software expliciet rekening gehouden moet worden met 
+
+
+ 
+ 
+10 
+ 
+mogelijkheden en beperkingen van de beschikbare hardware. In de 
+beschrijving binnen deze architectuurlaag is gekozen is voor 
+‘computersysteem’ als generieke, overkoepelende term. Afhankelijk van 
+de context kan dit nader gespecificeerd worden in ‘embedded systeem’, 
+‘industrial automation’, ‘virtueel systeem’, enzovoort. 
+ 
+Professional Skills  
+Professional skills, ofwel professionele vaardigheden, zijn onlosmakelijk verbonden met de 
+beroepstaken die een ICT beroepsbeoefenaar uitvoert. Professionele taakuitvoering is taak- 
+en contextspecifiek: zij vereist professioneel gedrag naar stakeholders en het leveren van 
+passende, relevante beroepsproducten die aansluiten bij de eisen van de organisatie, 
+waarbij zorgvuldige afwegingen zijn gemaakt in relatie tot maatschappelijke vraagstukken. 
+De professional skills zijn geformuleerd binnen vier aandachtsgebieden, die elk een eigen 
+focus kennen: toekomstgericht organiseren, onderzoekend vermogen, persoonlijk 
+leiderschap en doelgericht interacteren. 
+ 
+Tabel 4: professional skills 
+Professional Skill 
+Omschrijving 
+Toekomstgericht organiseren 
+Binnen toekomstgericht organiseren staat de omgeving centraal 
+waarin de ict-werkzaamheden plaatsvinden. De aandacht ligt 
+hier op de werkwijze in relatie tot de opdracht en de 
+contextfactoren die de werkzaamheden en/of de te 
+(door)ontwikkelen producten beïnvloeden. 
+Onderzoekend vermogen 
+Binnen onderzoekend vermogen staan de vraagstukken centraal 
+die gerelateerd aan de opdracht zijn. Binnen dit thema ligt de 
+nadruk op een kritische houding en op methodisch werken met 
+onderbouwde keuzes. 
+Persoonlijk leiderschap 
+Persoonlijk leiderschap richt zich op de ontwikkeling van het 
+individu in relatie tot de context waarin deze opereert. Hierbij is 
+aandacht voor proactief handelen op basis van verkregen 
+informatie om verdere persoonlijke en professionele 
+ontwikkeling vorm te geven. 
+Doelgericht interacteren 
+Communicatie en samenwerking staan binnen doelgericht 
+interacteren centraal. Hierbinnen zijn zowel de vorm als de 
+inhoud van de communicatie- en samenwerkingsaspecten van 
+belang. 
+ 
+ 
+3.3 
+DE RELATIE TUSSEN DE OPLEIDING EN HET BEROEPENVELD 
+ 
+Er is een hechte relatie tussen de opleiding en het beroepenveld. Dit uit zich concreet in een 
+aantal zaken: 
+ 
+• 
+De opleiding maakt gebruik van de HBO-i domeinbeschrijving. Deze beschrijving is 
+gevalideerd door het beroepenveld.  
+• 
+Semesters worden zoveel mogelijk in samenwerking met de praktijk vormgegeven 
+en worden veelal ingevuld met praktijkopdrachten vanuit het bedrijfsleven. 
+• 
+Bij de uitvoering van het curriculum is het beroepenveld betrokken door middel van 
+het geven van gastcolleges, het aandragen van casuïstiek en opdrachten voor 
+projecten en stages. 
+• 
+Het afstuderen vindt plaats in innovatieve dan wel onderzoeksprojecten waar altijd 
+een bedrijf uit het beroepenveld bij betrokken is. 
+
+
+ 
+ 
+11 
+ 
+• 
+Docenten onderhouden contacten met het werkveld. Ze worden hierbij ondersteund 
+door een praktijkbureau en door docenten die de rol hebben van relatiebeheerder. 
+• 
+Studenten en docenten kunnen gebruik maken van het netwerk van de verschillende 
+lectoraten binnen Windesheim. Via lectoraten worden opdrachten uitgevoerd in de 
+beroepspraktijk. 
+• 
+Via de relatiebeheerders worden activiteiten voor alumni opgezet. 
+• 
+Rond thema’s in de opleiding zoals o.a. Data Science, Security en Web Development 
+zijn trendwatches opgestart. Dit zijn evenementen waar organisaties voor elkaar, 
+voor alumni, voor docenten en voor studenten workshops organiseren rond het 
+thema. Zo wordt de opleiding, maar ook de regio gefaciliteerd bij te blijven bij de 
+ontwikkelingen in het vakgebied. 
+• 
+Het eindniveau wordt gevalideerd bij het werkveld door kalibratiesessies. Op een van 
+tevoren bepaald thema (bijvoorbeeld een beroepstaak of afstudeerrichting) worden 
+extern gecommitteerden uitgenodigd om een aantal eindwerken te bekijken en de 
+opleiding te adviseren over de aansluiting met de praktijk en het inhoudelijk niveau 
+van het eindwerk. 
+• 
+Een aantal partners van de opleiding ICT heeft de titel Senior Partner. Deze partners 
+leveren op meerdere terreinen langere tijd actief een bijdrage aan de opleiding. 
+• 
+De ICT-opleiding is partner en facilitator van het Digital District Zwolle. Dit is een 
+platform van regionale bedrijven.  
+• 
+Een goede relatie met alumni. Alumni beschikken immers vaak over relaties en 
+ingangen bij bedrijven, waar de opleiding profijt van kan hebben. Daarnaast brengen 
+de alumni hun eigen ervaring in bij het verzorgen van gastcolleges en voorlichting. 
+Om contact te houden met afgestudeerde studenten wordt gebruikt gemaakt van 
+LinkedIn-groepen. 
+ 
+Relatie naar andere ICT-opleidingen 
+Landelijk wordt samengewerkt in het HBO-i-platform en wordt intervisie georganiseerd 
+tussen ICT- opleidingen.  
+ 
+Om een beeld te krijgen van het eindniveau t.o.v. andere ICT-opleidingen in Nederland 
+worden kalibreersessies gehouden met docenten tussen de locaties in Zwolle en Almere en 
+met docenten van andere hogescholen. Op die manier worden de beoordelingscriteria en 
+wijze van beoordelen aangescherpt. 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+12 
+ 
+4 
+INRICHTING VAN DE OPLEIDING 
+ 
+4.1 
+VORM VAN DE OPLEIDING  
+De opleiding ICT in Zwolle wordt aangeboden in voltijd en deeltijd. De voltijdopleiding wordt 
+ook aangeboden in Almere. De voltijdstudent volgt hoofdzakelijk overdag onderwijs tussen 
+8.30u en 18.30u en is van maandag t/m vrijdag beschikbaar voor onderwijs. De 
+deeltijdstudent combineert de studie vaak met een (volledige) baan. Voor de 
+deeltijdopleiding ICT is er een apart opleidingsdeel van de OER. Ook voor de opleiding ICT in 
+Almere is er een apart opleidingsdeel van de OER. 
+ 
+4.2 
+GLOBALE INRICHTING VAN DE OPLEIDING 
+ 
+De bachelor ICT kent een programma van 240EC. Dit programma bestaat uit een 
+propedeuse van 60EC en een hoofdfase van 180EC. Ieder jaar binnen de opleiding is 
+vormgegeven in een tweetal semesters (september-januari en februari-juli) waarbij ieder 
+semester is opgedeeld in een tweetal periodes. 
+ 
+Figuur 1: Standaardinrichting bachelor ICT voltijd 
+ 
+ 
+De propedeuse (paragraaf Fout! Verwijzingsbron niet gevonden.) geeft een beeld van de 
+verschillende architectuurlagen binnen de bachelor ICT. Ook leert de student waar de eigen 
+talenten en interesses liggen. Aan het eind van het eerste jaar maakt de student een keuze 
+voor een afstudeerrichting in de hoofdfase en hierbij passende semesters. In de hoofdfase 
+kan de student vervolgens ieder half jaar de keuzes bijstellen. 
+ 
+Voor de opleiding geldt een doorstroomnorm. Een student mag pas verder met de 
+hoofdfase van de opleiding als de student voldoet aan deze norm (zie paragraaf 4.3.1). 
+ 
+Switchen van studie 
+Windesheim wil het mogelijk maken dat studenten snel en soepel een overstap kunnen 
+maken naar een andere opleiding of leerroute. We noemen dat switchen van opleiding. 
+ 
+We faciliteren dat studenten zich in het eerste jaar gemakkelijk opnieuw kunnen oriënteren 
+op hun doelen en interesses en onderwijs kunnen kiezen dat hierbij aansluit. 
+ 
+Een Windesheimbrede afspraak is dat elke student die start in september in het eerste jaar 
+in periode 1 (indien de student voldoet aan alle toelatingseisen) kan switchen naar een 
+andere Ad- of bacheloropleiding. Wanneer een student in periode 2, 3 of 4 merkt dat deze 
+niet op de juiste plek zit, kijken we of maatwerk te organiseren is om een switch mogelijk te 
+maken. De student kan terecht bij de switch-coördinator, de switch-coach of 
+studentbegeleider voor begeleiding bij het oriënteren en switchen. 
+ 
+Daarnaast biedt de opleiding ICT een extra instroommogelijkheid. Studenten kunnen per 
+
+
+ 
+ 
+13 
+ 
+september of per februari starten met de opleiding. 
+ 
+Switchen van Ad Software Development naar de bachelor ICT 
+ 
+Studenten van de opleiding Ad Software Development in Almere kunnen na hun diploma 
+(cohort 2025 e.v.) versneld de opleiding ICT in Zwolle volgen. Zij krijgen hierbij 120EC 
+vrijgesteld (propedeuse, OOSDD en Web Development). Zij volgen verplicht het semester 
+BPM en de overige semesters horende bij de gekozen afstudeerrichting. 
+ 
+4.3 
+DE PROPEDEUTISCHE FASE  VAN DE BACHELOROPLEIDING 
+ 
+De propedeuse biedt iedere ICT’er een brede basis. Tijdens het eerste jaar is er sprake van 
+selectie en oriëntatie. Studenten worden actief geholpen een keuze te maken uit de 
+verschillende afstudeerrichtingen en de mogelijkheden om een studieroute te kiezen die 
+past bij de persoonlijke interesses en ambities. 
+ 
+Een belangrijk onderdeel van de propedeuse is dat een student professionele vaardigheden 
+ontwikkelt. Het gaat hierbij om alle vier de professional skills. Zo leren studenten zich te 
+ontwikkelen op het gebied van de taalcompetentie (doelgericht interacteren) en op 
+methodisch werken en het maken van onderbouwde keuzes (onderzoekend vermogen). Ook 
+is er aandacht voor het leren leren en het ontwikkelen van de professionele identiteit 
+(persoonlijk leiderschap). De student leert rekening te houden met maatschappelijke 
+factoren en vraagstukken rondom ethiek en maatschappij te betrekken in het professionele 
+handelen (toekomstgericht organiseren).  
+ 
+Alle vijf architectuurlagen komen in het eerste semester aan bod in vijf opeenvolgende 
+blokken. In ieder blok werken studenten aan de vijf beroepsactiviteiten en de professional 
+skills door onderwijs te volgen en (delen van) beroepsproducten te maken. Ook vindt in ieder 
+blok een kennismeting plaats. De opdrachten en kennismetingen en de feedback hierop 
+noemen we datapunten. Deze datapunten geven informatie over de ontwikkeling van de 
+student. 
+ 
+Op basis van de feedback op de producten en de resultaten van de kennismetingen krijgt de 
+student een beeld hoe deze ervoor staat. Halverwege het semester vindt een medium-stake-
+beoordeling plaats. Dit is een tussenevaluatie. De student doet een zelfbeoordeling die door 
+de docenten wordt aangevuld of gecorrigeerd. Zo is het duidelijk voor de student wat deze 
+moet doen om uiteindelijk een positief oordeel te krijgen bij de high-stake. 
+ 
+Aan het eind van het semester vindt de high-stake-beoordeling plaats. Studenten worden 
+beoordeeld door minimaal twee docenten op basis van de datapunten. Bij een positieve 
+beoordeling krijgt de student 30EC toegekend en kan deze door naar het volgende semester. 
+Bij een onvoldoende beoordeling volgt de student het semester opnieuw met een nieuwe 
+casus. De beoordeling van deze tweede mogelijkheid geldt als herkansing. De student loopt 
+daarmee wel een half jaar studievertraging op. 
+ 
+Na een half jaar krijgt iedere student ook een gemotiveerd studieadvies van de 
+studentbegeleider (sb’er). Samen met de sb’er maakt de student de keuze door te gaan met 
+de opleiding of om bijvoorbeeld te switchen naar een andere opleiding op Windesheim. Zie 
+hiertoe ook hoofdstuk 0. 
+ 
+Het tweede semester werkt op vergelijkbare wijze als het eerste semester. Studenten 
+werken verder binnen de verschillende architectuurlagen aan de vijf beroepsactiviteiten en 
+
+
+ 
+ 
+14 
+ 
+de professional skills. In de verschillende blokken werken studenten nu aan meerdere 
+architectuurlagen tegelijkertijd in zogenaamde sprints. Als het tweede semester van de 
+propedeuse is afgerond met een voldoende beoordeling ontvangt de student het 
+propedeusegetuigschrift en kan door naar de hoofdfase. Mocht het semester niet behaald 
+zijn dan kan de student het semester opnieuw aan het begin van het tweede 
+inschrijvingsjaar volgen. Omdat de herkansing altijd een semester later plaatsvindt kan het 
+voorkomen dat conform artikel 26 lid 5 van het instellingsdeel slechts één kans aangeboden 
+wordt binnen het studiejaar. 
+ 
+Tabel 5: Opzet propedeuse vanaf cohort 2024 
+Semesternaam 
+Ingangseisen 
+Aangeboden 
+in semester 
+Basisconcepten ICT 1 
+(30EC) 
+- 
+1 , 2 
+Basisconcepten ICT 2 
+(30EC) 
+Basisconcepten ICT 1 behaald 
+1 , 2 
+ 
+Gedurende dit tweede semester krijgen studenten een voorlichting over alle 
+afstudeerrichtingen en keuzemogelijkheden die er zijn in de hoofdfase en maken zij de 
+keuze voor het eerste semester en de leerroute die ze willen volgen als de propedeuse is 
+behaald. 
+ 
+4.3.1 
+VAN DE PROPEDEUTISCHE FASE NAAR DE HOOFDFASE 
+ 
+Een student kan in de propedeuse 0EC, 30EC of 60EC behalen. Een student kan pas 
+doorstromen naar de hoofdfase als deze de doorstroomnorm van 50EC heeft behaald. Bij 
+de opleiding ICT zal de student in de praktijk 60EC behaald moeten hebben om door te 
+stromen naar de hoofdfase. Bij 30EC volgt de student het tweede semester opnieuw in 
+september. Als dat semester vervolgens is behaald kan de student in februari instromen in 
+de hoofdfase. Als een student 0EC heeft behaald in het eerste jaar en de opleiding wil 
+voortzetten volgt deze de hele propedeuse opnieuw. 
+ 
+Voor studenten tot en met cohort 20232 geldt dat zij pas onderdelen mogen volgen uit de 
+hoofdfase als zij 50EC hebben behaald uit de propedeuse. Zij kunnen hiertoe tijdens het 
+studiejaar de toetsen uit de propedeuse van hun cohort elk nog twee keer maken. Er worden 
+geen lessen meer aangeboden. 
+ 
+4.4 
+DE BEROEPSRUIMTE VAN DE BACHELOROPLEIDING (VERDERE UITWERKING ART.15 
+INSTELLINGDEEL) 
+ 
+De beroepsruimte omvat meerdere onderwijseenheden of eenheden van examinering die samen 
+180 studiepunten omvatten. 
+ 
+De beroepsruimte bestaat uit de eerder beschreven propedeuse (60EC), een tweetal 
+semesters op niveau 2, een semester op niveau 3 en, als laatste semester binnen de 
+beroepsruimte, de afstudeeropdracht. 
+ 
+ 
+ 
+ 
+2 Cohort 2023: studenten die in september 2023 zijn begonnen in het eerste jaar van de opleiding 
+
+
+ 
+ 
+15 
+ 
+4.4.1 
+HET PROGRAMMA VAN DE BEROEPSRUIMTE 
+ 
+4.4.1.1 
+HET PROGRAMMA VAN DE BEROEPSRUIMTE (COHORT 2024 e.v.) 
+ 
+Binnen alle semesters binnen de beroepsruimte werken studenten aan opdrachten of 
+kennismetingen en krijgen hierop feedback. Zo krijgen ze een beeld hoe ze er voorstaan. 
+Halverwege het semester vindt een medium-stake plaats. De student doet een zelfevaluatie 
+die door de docenten wordt aangevuld of gecorrigeerd. Zo is het duidelijk voor de student 
+wat deze moet doen om uiteindelijk een positief oordeel te krijgen bij de high-stake. Bij een 
+positief oordeel krijgt de student 30EC toebedeeld. Bij een onvoldoende oordeel moet het 
+semester desgewenst opnieuw gevolgd worden. In veel gevallen wordt dit semester pas 
+weer een jaar later aangeboden. 
+ 
+In Tabel 6 staan de semesters die kunnen worden gevolgd met daarbij de ingangseisen en 
+niveauaanduiding. 
+ 
+Tabel 6: Keuzemogelijkheden binnen beroepsruimte vanaf cohort 2024 
+Semesternaam 
+Ingangseisen 
+(naast propedeuse behaald) 
+Aangeboden in 
+semester3 
+Niveau 
+Business Process 
+Management (BPM) 
+1 
+2 
+Data Science (DS) 
+CS, OOSDD of BPM gevolgd 
+2 
+2 
+Microcontrollers 
+(MC) 
+1 
+2 
+Internet of Things 
+(IOT) 
+MC gevolgd 
+2 
+2 
+OO Software Design 
+& Development 
+(OOSDD) 
+1 
+2 
+Web Development 
+(WD) 
+OOSDD gevolgd 
+2 
+2 
+Cybersecurity (CS) 
+1 
+2 
+Cloud Automation 
+(CA) 
+CS gevolgd 
+2 
+2 
+User Interaction (UI) 
+2 
+2 
+Management of IT 
+(MIT) 
+Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. 
+2 
+3 
+Artificial Intelligence 
+(AI) 
+Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. DS gevolgd of volgen van 
+extra reparatieonderwijs binnen 
+onderwijseenheid. 
+1 
+3 
+Quality in Software 
+Development (QSD) 
+OOSDD behaald en 
+WD, DS of UI gevolgd 
+Of 
+MC behaald en IOT gevolgd 
+1 (in Almere in 
+semester 2) 
+3 
+Cloud Security 
+Governance (CSG) 
+CS behaald en 
+DS of CA gevolgd 
+1 
+3 
+ 
+3 1: september-januari, 2: februari-juli 
+
+
+ 
+ 
+16 
+ 
+User Experience 
+Research and 
+Innovation (UXRI) 
+BPM of OOSDD behaald en 
+UI gevolgd 
+1 
+3 
+Computer 
+Engineering (CE) 
+MC behaald 
+en IOT gevolgd 
+1 (vanaf 1-9-2027) 
+3 
+ 
+4.4.1.2 
+HET PROGRAMMA VAN DE BEROEPSRUIMTE (TOT EN MET COHORT 2023) 
+ 
+Binnen elk semester in jaar 2 is 6EC gereserveerd voor de professionele vaardigheden (PV). 
+Studenten volgen verplicht de PV-modules Onderzoek en Rapportage, Engels 2, 
+Bedrijfsethiek en Interculturele Communicatie. Deze modules helpen de student in de 
+ontwikkeling tot waardenvolle professional die voldoende voorbereid is op de 
+multidisciplinaire, internationale semesters in het vervolg van de studie. 
+ 
+Het programma van de beroepsruimte voor studenten uit cohort 2023 en eerder wordt 
+uitgefaseerd. Onderwijs wordt niet meer aangeboden, maar het is mogelijk voor studenten 
+deel te nemen aan de toetsing. In Tabel 7 staan de semesters met daarbij het moment 
+(lesperiode) waarop toetskansen worden aangeboden. Het is ook mogelijk onderwijs van 
+deels behaalde semesters te laten vervallen en semesters met dezelfde naam te volgen in 
+de nieuwe vorm. Dit gaat altijd via een verzoek aan de examencommissie. 
+ 
+Tabel 7: Keuzemogelijkheden beroepsruimte tot en met cohort 2023 
+Semesternaam 
+Ingangseisen 
+(naast propedeuse behaald) 
+Toetskansen in 
+periode 
+Niveau 
+Cloud Architecture 
+and Automation 
+(CAA)* 
+1,3 
+2 
+Management of IT 
+(MIT)* 
+Minimaal 105EC behaald uit 
+beroepsruimte. 
+1,3 
+3 
+Artificial Intelligence 
+(voorheen Machine 
+Learning) (AI) 
+Data Science gevolgd of 
+vergelijkbare voorkennis (of 
+volgen van extra 
+reparatieonderwijs binnen 
+module). Minimaal 105 EC 
+behaald uit beroepsruimte. 
+1,3 
+3 
+Quality in Software 
+Development 
+(QSD)* 
+OO Software Design & 
+Development behaald of 
+vergelijkbare voorkennis. 
+Minimaal 105 EC behaald uit 
+beroepsruimte, 
+1,3 
+3 
+Applied IT Security 
+(AIS)* 
+Minimaal 105 EC behaald uit 
+beroepsruimte. 
+1,3 
+3 
+Games 
+Programming (GP)* 
+QSD gevolgd of vergelijkbare 
+voorkennis. 
+Minimaal 135 EC behaald uit 
+beroepsruimte. 
+1,3 
+3 
+Computer 
+Engineering (CE)* 
+Microcontrollers gevolgd of 
+vergelijkbare voorkennis. 
+Minimaal 105 EC behaald uit 
+beroepsruimte. 
+1,3 
+3 
+
+
+ 
+ 
+17 
+ 
+Mobile & Web 
+Solutions* 
+Minimaal 105 EC behaald uit 
+beroepsruimte. 
+1,3 
+3 
+Data Driven 
+Innovation* 
+Minimaal 105 EC behaald uit 
+beroepsruimte, 
+1,3 
+3 
+Entrepreneurship* 
+Minimaal 105 EC behaald uit 
+beroepsruimte. 
+1,3 
+3 
+Slim Zorg Lab 
+Minimaal 105 EC behaald uit 
+beroepsruimte. 
+1,3 
+2 
+Game Studio* 
+Minimaal 105 EC behaald uit 
+beroepsruimte. 
+1,3 
+3 
+Security 
+Engineering* 
+Minimaal 105 EC behaald uit 
+beroepsruimte, 
+1,3 
+3 
+Fabriek van de 
+Toekomst 
+Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. 
+2,4 (mogelijk om ook 
+lessen te volgen) 
+3 
+Stage 
+Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. 
+2,4 (mogelijk om nog 
+te volgen) 
+3 
+Stage Buitenland 
+Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. 
+2, 4 (mogelijk om nog 
+te volgen) 
+3 
+ 
+ 
+De semesters die in Tabel 7 zijn voorzien van een asterisk (*) moeten altijd aangevuld 
+worden met onderwijs rondom de professional skills om tot 30EC te komen. Hiertoe kan 
+gebruik gemaakt worden van het aanbod uit Tabel 8. Ook deze onderwijseenheden worden 
+niet meer aangeboden tenzij anders vermeld. Wel is het mogelijk deel te nemen aan de 
+toetsing. De semesters met dezelfde naam kunnen vervangen worden door de semesters uit 
+Tabel 6. In deze semesters zijn de professional skills geïntegreerd.  
+ 
+Tabel 8: Aanbod Professionele Vaardigheden ICT voltijd 
+Toetsgelegenheid in periode 
+Onderwijseenheid 
+1 
+2 
+3 
+4 
+Leidinggeven 
+X 
+ 
+X 
+ 
+Persoonlijk Leiderschap (7 Habits) 
+X 
+ 
+X 
+Creativiteit voor ICT 
+X 
+ 
+X 
+ 
+IT Financial management 
+X 
+ 
+X 
+ 
+Sociaal-communicatieve vaardigheden (nog mogelijk te 
+volgen) 
+X 
+X 
+X 
+X 
+Persoonlijke effectiviteit en conflicthantering 
+X 
+ 
+X 
+ 
+Student coaching 
+X 
+ 
+X 
+ 
+Timemanagement 
+X 
+ 
+X 
+ 
+
+
+ 
+ 
+18 
+ 
+ICT-recht 
+X 
+ 
+X 
+ 
+Gesprekken in organisaties 
+X 
+ 
+X 
+ 
+Research and development 
+X 
+ 
+X 
+ 
+Prince2 projectmanagement 
+X 
+ 
+X 
+ 
+Oriëntatie op onderwijs 
+X 
+ 
+X 
+ 
+Hogeschool Keuze Module (na goedkeuring 
+examencommissie , nog mogelijk te volgen) 
+Afh. 
+van 
+HKM 
+Afh. 
+van 
+HKM 
+Afh. 
+van 
+HKM 
+Afh. 
+van 
+HKM 
+ 
+4.4.2 
+EIGEN LEERROUTE IN DE BEROEPSRUIMTE 
+Voor de mogelijkheden om binnen de beroepsruimte voor een (deels) eigen leerroute te 
+kunnen kiezen, wordt verwezen naar artikel 15 van het Instellingsdeel Onderwijs- en 
+Examenregeling en hoofdstuk 4.5 in dit document.  
+ 
+4.4.3 
+INRICHTING VAN DE STAGE EN/OF ANDERE PRAKTIJKONDERDELEN 
+ 
+Het is mogelijk om een semester (30EC) stage te lopen bij een bedrijf. Tijdens een stage 
+voert de student een opdracht uit op de werkplek. Begeleiding vindt plaats door het 
+stagebedrijf. Het is mogelijk zelf opdrachten voor te dragen als stageopdracht. 
+ 
+Een stage kan ook gevolgd worden in het buitenland. De student dient hiervoor contact op te 
+nemen met de coördinator internationalisering. Er worden ook regelmatig voorlichtingen 
+gegeven over studeren of stage in het buitenland. Het is toegestaan om zowel stage in het 
+binnenland als in het buitenland te volgen. Dit zijn verschillende semesters. 
+ 
+Het is ook mogelijk een praktijkopdracht te volgen voor 15EC. Dit is een praktijkopdracht op 
+niveau 2 die meetelt voor de vrije ruimte (zie paragraaf 4.5) 
+ 
+Voor informatie over stages kunnen studenten terecht bij 
+ictstageafstuderen@windesheim.nl. 
+ 
+4.4.4 
+INRICHTING VAN DE BACHELOR EINDFASE EN AFSTUDEERRICHTINGEN 
+ 
+Eindniveau  
+De student studeert af binnen een afstudeerrichting. De afstudeerrichting wordt op het 
+getuigschrift vermeld. De opleiding onderkent zes afstudeerrichtingen waarbij specifieke 
+eisen worden gesteld aan de gevolgde studieroute. De afstudeerrichtingen zijn sterk 
+verbonden met de architectuurlagen. Er geldt een vijftal algemene eisen voor het eindniveau 
+(zie Tabel 9). 
+ 
+Het is voor studenten tot en met cohort 2023 ook mogelijk om af te studeren zonder 
+vermelding van een afstudeerrichting. Ook dan gelden de eisen uit Tabel 9, maar heeft de 
+student meer vrijheid in de combinatie van architectuurlagen. Als de student wil afstuderen 
+zonder vermelding van een afstudeerrichting, dan kan de student voorafgaand aan het 
+afstuderen een met redenen omkleed verzoek indienen bij de examencommissie. De student 
+stuurt hierbij ook een omschrijving van de uit te voeren opdracht. De examencommissie 
+besluit hierover na advies van de curriculumcommissie. 
+ 
+Voor de eisen rond eindniveau binnen afstuderen maken we onderscheid tussen studenten 
+die het programma volgen vanaf cohort 2024 en studenten die voor die tijd zijn gestart. 
+ 
+ 
+
+
+ 
+ 
+19 
+ 
+Tabel 9: Eindniveau HBO-ICT 
+Opleiding 
+Eindniveau 
+ HBO-ICT 
+• 
+Propedeuse behaald 
+• 
+Minimaal 2 semesters behaald op niveau 2 
+• 
+Tot cohort 2024 geldt dat de 4 verplichte PV-modules Engels 2, 
+Onderzoek en Rapportage, Ethiek en Interculturele Communicatie 
+moeten zijn behaald. 
+• 
+Minimaal 1 semester behaald op niveau 3 
+• 
+Afstuderen behaald 
+ 
+ 
+ 
+Tabel 10: Extra eisen gesteld aan vermelding afstudeerrichting 
+Afstudeerrichting 
+Eisen tot cohort 2024 
+(aanvullend aan eisen Tabel 9) 
+Eisen vanaf cohort 2024 
+(aanvullend aan eisen Tabel 9) 
+Cloud and Security 
+Engineering (CSE) 
+- 
+Hybrid Cloud Infrastructure 
+behaald 
+- 
+Cloud Architecture and 
+Automation of Applied IT Security 
+behaald 
+Tijdens het afstuderen: 
+- 
+Minimaal twee activiteiten binnen 
+architectuurlaag infrastructuur op 
+niveau 3 
+- 
+Overige activiteiten op niveau 2 
+binnen passende architectuurlaag 
+- 
+Cybersecurity behaald 
+- 
+Cloud Automation of Data Science 
+behaald 
+- 
+Cloud Security Governance behaald 
+- 
+Afstuderen CSE behaald 
+Applied Data Science 
+& AI (ADSAI) 
+- 
+Data Science behaald 
+- 
+Artificial Intelligence (voorheen 
+Machine Learning) behaald 
+Tijdens het afstuderen: 
+- 
+Minimaal twee activiteiten binnen 
+architectuurlaag 
+Organisatieprocessen en/of 
+Software op niveau 3, waarbij de 
+invulling conform het addendum 
+‘Applied Data Science’ van de 
+domeinbeschrijving van het HBO-I 
+is. 
+- 
+Overige activiteiten op niveau 2 
+binnen passende architectuurlaag 
+- 
+Business Process Management of 
+Object Oriented Software Design & 
+Development behaald 
+- 
+Data Science behaald 
+- 
+Artificial Intelligence behaald 
+- 
+Afstuderen ADSAI behaald 
+Business IT & 
+Management (BIM) 
+- 
+Business Process Management 
+behaald 
+- 
+Data Science behaald 
+ 
+Tijdens het afstuderen: 
+- 
+Minimaal twee activiteiten binnen 
+architectuurlaag 
+organisatieprocessen op niveau 3 
+- 
+Overige activiteiten op niveau 2 
+binnen passende architectuurlaag 
+- 
+Business Process Management 
+behaald 
+- 
+User Interaction of Data Science 
+behaald 
+- 
+Management of IT behaald 
+- 
+Afstuderen BIM behaald 
+
+
+ 
+ 
+20 
+ 
+User Experience 
+Design (UXD) 
+- 
+Business Process Management of 
+Object Oriented Software Design & 
+Development behaald 
+- 
+User Interaction behaald 
+- 
+User Experience Research & 
+Innovation behaald 
+- 
+Afstuderen UXD behaald 
+- 
+Business Process Management of 
+Object Oriented Software Design & 
+Development behaald 
+- 
+User Interaction behaald 
+- 
+User Experience Research & 
+Innovation behaald 
+- 
+Afstuderen UXD behaald 
+Software Engineering 
+(SE) 
+- 
+Object Oriented Software Design & 
+Development behaald 
+- 
+Web Development behaald of 
+Quality in Software Development 
+behaald 
+Tijdens het afstuderen: 
+- 
+Minimaal twee activiteiten binnen 
+architectuurlaag Software op 
+niveau 3 
+- 
+Overige activiteiten op niveau 2 
+binnen passende architectuurlaag 
+- 
+Object Oriented Software Design & 
+Development behaald 
+- 
+Web Development, User Interaction 
+of Data Science behaald 
+- 
+Quality in Software Development 
+behaald 
+- 
+Afstuderen SE behaald 
+Embedded Software 
+Engineering (ESE) 
+- 
+Microcontrollers behaald 
+- 
+Internet of Things of Computer 
+Engineering behaald 
+Tijdens het afstuderen: 
+- 
+Minimaal twee activiteiten binnen 
+architectuurlaag Hardware 
+Interfacing op niveau 3 
+- 
+Overige activiteiten op niveau 2 
+binnen passende architectuurlaag 
+- 
+Microcontrollers behaald 
+- 
+Internet of Things behaald 
+- 
+Computer Engineering of Quality in 
+Software Development behaald 
+- 
+Afstuderen ESE behaald 
+ 
+ 
+Het laatste semester van de opleiding betreft in de meeste gevallen de afstudeeropdracht.  
+ 
+Via het keuzeproces geeft de student aan te willen afstuderen. De examencommissie 
+controleert of de student voldoet aan de eisen voor het afstuderen en geeft wel of geen 
+toestemming om af het afstudeertraject te starten. 
+ 
+De student krijgt toestemming van de examencommissie om af te studeren als alle overige 
+onderdelen (150EC) uit de beroepsruimte zijn afgerond. 
+ 
+Het is dus mogelijk een semester op het gebied van de vrije ruimte te volgen na de 
+afstudeeropdracht. 
+ 
+Mocht een student geen toestemming krijgen om af te mogen studeren, dan kan deze via 
+een studieplan alsnog toestemming aanvragen bij de examencommissie. Hierover ontvangt 
+de student bericht van de examencommissie. In het studieplan, dat de student bespreekt 
+met de studentbegeleider (sb’er), geeft de student aan wat deze voor de start van het 
+afstuderen denkt te behalen. Per onderwijseenheid geeft de student aan waarom het nog 
+niet gelukt is deze te behalen, waarom het nu wel gaat lukken, wanneer de toets plaats vindt 
+en hoe de student het inhaalwerk gaat combineren met het lopende onderwijs. De 
+
+
+ 
+ 
+21 
+ 
+examencommissie zal het studieplan vervolgens beoordelen en een besluit nemen. 
+ 
+4.5 
+VRIJE RUIMTE (VERDERE UITWERKING ART.15 INSTELLINGDEEL) 
+ 
+Naast de beroepsruimte kan de student de vrije ruimte van 60 studiepunten vrij inrichten met 
+onderwijseenheden binnen of buiten de instelling. Artikel 15 van het Instellingsdeel is hier 
+van overeenkomstige toepassing. 
+ 
+Hierbij mag geen ongewenste overlap van leerdoelen, competenties of leeruitkomsten 
+ontstaan in het curriculum en het onderwijs in de vrije ruimte moet minimaal op EQF niveau 
+54 zijn. 
+ 
+Mogelijkheden binnen bachelor ICT Windesheim in Zwolle (tot en met cohort 2023) 
+Binnen de ICT-opleiding kan de student kiezen uit de nog steeds aangeboden semesters en 
+nog niet gevolgde semesters zoals genoemd in Tabel 11, rekening houdend met de 
+ingangseisen. Ook kan het programma gecombineerd worden met het onderwijs uit Tabel 6. 
+Hier is echter altijd goedkeuring op het studieplan voor nodig van de examencommissie. Het 
+kan zijn dat er overlap is waardoor reeds behaalde onderwijseenheden uit het studieplan 
+moeten worden gehaald. 
+ 
+Het is ook mogelijk een praktijkopdracht voor 15EC op niveau 2 uit te voeren. Dit kan een 
+individuele opdracht zijn of een opdracht met meerdere personen. Ingangseis is 50EC 
+behaald in de propedeuse. 
+ 
+Mogelijkheden binnen de bachelor ICT Windesheim in Zwolle (vanaf cohort 2024) 
+Binnen de ICT-opleiding kan de student kiezen uit nog niet gevolgde semesters zoals 
+genoemd in Tabel 6, rekening houdend met de ingangseisen. Ook is het mogelijk om te 
+kiezen uit de semesters zoals genoemd in Tabel 11. 
+ 
+Tabel 11: Aanbod vanaf cohort 2024 
+Semesternaam 
+Ingangseisen 
+Aangeboden in 
+semester 
+IT Lab 
+Propedeuse behaald 
+2 
+Mobile & Web Solutions Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. 
+1,2 
+Digital Transformation & 
+AI (voorheen Data Driven 
+Innovation) 
+Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. 
+1,2 
+Entrepreneurship 
+Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. 
+1,2 
+Slim Zorg Lab 
+Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. 
+1,2 
+Game Studio 
+Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. 
+1,2 
+Digital Trust & 
+Information Security  
+Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+1,2 
+ 
+4 EQF: European Qualification Framework niveau 5 komt overeen met Associate Degree 
+
+
+ 
+ 
+22 
+ 
+(voorheen Security 
+Engineering) 
+behaald. 
+Fabriek van de ToekomstMinimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. 
+1,2 
+Stage 
+Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. 
+1,2 
+Stage Buitenland 
+Minimaal 120 EC gevolgd uit 
+beroepsruimte waarvan 90EC 
+behaald. 
+1,2 
+ 
+ 
+ 
+Mogelijkheden bij andere opleidingen 
+De vrije ruimte kan ook worden ingevuld met een onderwijseenheid bij een andere opleiding 
+op Windesheim of via Kies op Maat bij een andere hogeschool. Eventuele ingangseisen 
+vallen onder de verantwoordelijkheid van de betreffende opleiding. Communicatie over de 
+ingangseisen loopt via die opleiding. 
+ 
+De invulling van de vrije ruimte met onderwijs bij andere opleidingen moet worden 
+voorgelegd aan de examencommissie. Bij ongewenste overlap met het programma van de 
+beroepsruimte of bij het niet voldoen aan minimaal EQF Niveau 5 wijst de 
+examencommissie het voorstel voor de vrije ruimte af. 
+ 
+Voor mogelijkheden in het buitenland zie paragraaf 4.7. 
+ 
+Premaster 
+Het is mogelijk om tijdens de studie binnen de vrije ruimte een doorstroomprogramma te 
+volgen voor een master: de premaster. Per universiteit zijn de ingangseisen voor een 
+premaster verschillend. Voor het volgen van een premaster bij een universiteit neemt de 
+student eerst contact op met de premastercoördinator van de opleiding ICT. Voor het volgen 
+van een premastertraject moet de student altijd toestemming aanvragen via de 
+examencommissie. De examencommissie controleert of er in het programma van de 
+premaster geen ongewenste overlap is. 
+ 
+Samengesteld programma 
+Een student kan zelf een programma samenstellen binnen de vrije ruimte. Voor keuzes 
+binnen de vrije ruimte is altijd toestemming nodig van de examencommissie. Hier is veel 
+ruimte voor eigen keuzes mits deze niet leiden tot ongewenste overlap in het programma en 
+mits de gekozen onderdelen aangeboden worden op EQF niveau 5 of hoger. De student 
+moet bij zo’n eigen programma zelf opletten of de onderdelen qua planning te combineren 
+zijn. 
+ 
+4.6 
+EXTRACURRICULAIR ONDERWIJS 
+ 
+Honoursprogramma voor bacheloropleidingen   
+Windesheim biedt honoursprogramma’s aan. Deze kan de student alleen naast het reguliere 
+curriculum volgen. Een honoursprogramma telt mee voor 15 EC. Het honoursprogramma 
+kent één integraal beoordelingsmoment en dient in zijn geheel gevolgd te worden. De 
+student ontvangt na afronding een Honours Predicaat door een aantekening op het diploma 
+(afstuderen met 240 + 15 EC). De voorwaarden om deel te kunnen nemen aan een 
+
+
+ 
+ 
+23 
+ 
+honoursprogramma staan hier beschreven. De honoursprogramma's dienen binnen één 
+collegejaar te worden afgerond.   
+    
+Studenten worden geselecteerd op grond van motivatie, zicht op de propedeuse en het 
+willen werken met innovatieve werkvormen (concept of giftedness en creatieve 
+productiviteit). De groep vormt samen met de docenten een learning community gericht op 
+gelijkwaardigheid, uitwisseling en leren van en met elkaar. Elk honoursprogramma is 
+vormgegeven vanuit de combinatie van de 8 kenmerken van de honours leeromgeving. De 
+student werkt in een multidisciplinaire groep studenten aan authentieke opdrachten gericht 
+op maatschappelijke impact. De vrijheid voor de student om zich persoonlijk te profileren zit 
+in de zogeheten individual learning journey en in persoonlijk leiderschap. 
+ 
+Leerwegafhankelijk toetsen 
+Voor studenten die deelnemen aan het honoursprogramma of het Ad-Talentprogramma 
+geldt een voorwaardelijke eis voor afronding: zij dienen een actieve en aantoonbare bijdrage 
+te leveren aan de honourscommunity van Hogeschool Windesheim. Deze actieve bijdrage 
+wordt ook meegenomen in de toetsing. Het programma kan daarom niet 
+leerwegonafhankelijk worden afgerond.  
+ 
+4.7 
+STUDEREN IN HET BUITENLAND 
+ 
+Er zijn verschillende vormen om een deel van de studie in het buitenland te doen. 
+ 
+Studie in het buitenland via Learning Agreements 
+Een Learning Agreement wordt gebruikt om een door de student in het buitenland te volgen 
+studieprogramma vast te leggen en te accorderen. Het format voor studenten die in het 
+kader van studiepuntmobiliteit bij een Erasmuspartner van Windesheim gaan studeren, 
+wordt verstrekt door de Europese Commissie (via de Nuffic). Ook studenten die in het kader 
+van studiepuntmobiliteit bij een niet-Erasmuspartner van Windesheim gaan studeren, leggen 
+afspraken over het te volgen programma en het aantal te behalen European Credits (EC) 
+vast in een Learning Agreement. 
+ 
+Stage- en afstudeerproject in het buitenland 
+Gedurende stages en afstudeerprojecten doen studenten ervaring op in het beroepenveld 
+waarvoor ze worden opgeleid. Stages en afstudeerprojecten worden uitgevoerd bij bedrijven, 
+organisaties of instellingen. Dat kan ook gebeuren in internationaal verband.  
+ 
+Ontwikkelingssamenwerking 
+Windesheim biedt een domein overstijgende minor International Sustainable Development 
+aan voor studenten die de opleiding willen combineren met het doen van ontwikkelingswerk. 
+ 
+ 
+    
+ 
+ 
+
+
+ 
+ 
+24 
+ 
+5 
+DE STUDENT EN HET ONDERWIJS 
+ 
+5.1 
+STUDIEBEGELEIDING EN DE EIGEN VERANTWOORDELIJKHEID VAN DE STUDENT 
+ 
+Studenten zijn gedurende de hele studie zo mogelijk gekoppeld aan een studentbegeleider 
+(sb’er). Vanaf het tweede jaar tot en met het afstuderen is dit een vaste sb’er waardoor 
+studenten dezelfde sb’er houden gedurende de hele hoofdfase. 
+ 
+De sb’er begeleidt studenten gedurende de studie. Samen met de sb’er stippelen studenten 
+een eigen individuele leerroute uit binnen de opleiding en maken ze keuzes voor te volgen 
+semesters. 
+ 
+Ook voeren studenten iedere periode gesprekken met de sb’er over de studievoortgang. 
+ 
+Studentbegeleiding in de propedeuse 
+Vlak voor of na de start van de opleiding voert de sb’er een intake- of kennismakingsgesprek 
+met de student. Het doel is om studenten zo vroeg mogelijk te leren kennen en begeleiding 
+op maat te kunnen aanbieden. Begeleiding wordt gegeven in de vorm van individuele en 
+groepsgesprekken waarin de studenten worden gestimuleerd zelf verantwoordelijkheid te 
+nemen voor het eigen leer- en ontwikkelingsproces. In het begin van de opleiding is 
+beroepsoriëntatie een belangrijk aspect. Studenten krijgen zo een goed beeld van het 
+werkveld waar ze na de studie in terecht komen. 
+ 
+Binnen vijf maanden na aanvang van de studie vindt er een studievoortgangsgesprek plaats. 
+Dit gesprek helpt de vraag te beantwoorden of de student vooralsnog de juiste opleiding 
+heeft gekozen en een correct beeld heeft van het toekomstig beroep. Tijdens dit 
+studievoortgangsgesprek wordt niet alleen naar de behaalde EC’s gekeken maar ook naar 
+de professionele houding en de persoonlijke ontwikkeling. 
+ 
+Alle studenten krijgen conform het instellingsdeel OER-artikel 23 een studieadvies. 
+ 
+De sb’er begeleidt studenten ook bij keuzes in het eerste jaar van de opleiding. Het betreft 
+hier de keuze voor de afstudeerrichting en het eerste semester dat vanaf het tweede jaar 
+wordt gevolgd. 
+ 
+Voor alle studenten van de ICT-opleiding is het mogelijk één-op-één-begeleiding te krijgen 
+van een studentcoach. Dit betreft een student uit een eerder cohort. 
+ 
+Studeren met functiebeperking 
+Als een (aspirant)student bij aanmelding of gedurende de studie aangeeft dat er sprake is 
+van een functiebeperking vindt er een gesprek plaats met de studentendecaan en de SmF-
+contactpersoon van de opleiding conform het “Uitvoeringsreglement studeren met een 
+functiebeperking Windesheim”. Het doel van dit gesprek is de student te leren kennen, van 
+de juiste informatie te voorzien, adviezen te geven en passende voorzieningen te 
+organiseren. 
+Als de student dyslexie heeft en alleen extra tentamentijd wil, hoeft deze alleen het formulier 
+Melding functiebeperking in te vullen.  
+ 
+Via het project Passend Werk heeft de opleiding een netwerk van bedrijven die een goede 
+werkplek kunnen bieden voor studenten die dat nodig hebben zoals prikkelarme 
+werkplekken en aangepaste begeleiding. 
+ 
+
+
+ 
+ 
+25 
+ 
+Begeleiding langstudeerders 
+Studenten met meer dan een jaar vertraging (langstudeerders) worden begeleid door een 
+coördinator Langstuderen. De langstudeerders stellen met de coördinator een haalbaar 
+studiecontract op om de studie zo goed mogelijk weer op te kunnen pakken en aanspraak te 
+maken op extra begeleiding. Onder deze begeleiding kunnen studenten samen in een apart 
+hiervoor gereserveerde ruimte achterstanden wegwerken. Ook worden deze studenten 
+uitgenodigd voor studiestimuleringsgroepen. 
+ 
+Wisselen van voltijd naar deeltijd / wisselen van afstudeerrichting 
+Wanneer een student van plan is te wisselen tussen voltijd en deeltijd of naar een andere 
+afstudeerrichting, dan dient de student dit allereerst te bespreken met de sb’er. Wisselen 
+naar de deeltijdopleiding kan alleen als de student ook een relevante werkplek heeft 
+inclusief de nodige praktijkervaring. Let op: als een student zichzelf zonder overleg 
+uitschrijft loopt deze het risico dat behaalde studiepunten niet kunnen worden meegenomen 
+in het nieuwe studieprogramma en dat de student onbedoelde studievertraging op loopt. 
+ 
+Om te wisselen tussen verschillende afstudeerrichtingen van de opleiding ICT kan de 
+student een verzoek indienen via ictstudievoortgang@windesheim.nl. Hierbij moet de 
+student voor zichzelf in kaart brengen welke eisen er aan de afstudeerrichting worden 
+gesteld. 
+ 
+Switchen van studie 
+Als de student twijfelt over de studiekeuze of zeker weet te willen switchen, brengt de 
+studentbegeleider de student in contact met de switchcoördinator van het domein. De 
+switchcoördinator/coach gaat met de student in gesprek en verkent samen de 
+mogelijkheden om eventueel over te stappen naar een andere, passender opleiding of 
+leerroute. De student kan ook zelf contact opnemen met de switchcoördinator/coach. 
+Informatie over switchen en contactgegevens zijn te vinden op Twijfel over je studie 
+(sharepoint.com). 
+ 
+Eigen verantwoordelijkheid van de student  
+De student is zelf verantwoordelijk om zich naar beste vermogen in te spannen om de 
+opleiding binnen de daarvoor gestelde termijn met succes af te ronden. Als de student door 
+persoonlijke omstandigheden (waaronder ook bijvoorbeeld een functiebeperking) kan 
+vermoeden studievertraging op te lopen of extra begeleiding of voorzieningen denkt nodig te 
+hebben, verwachten we van de student dit tijdig, wanneer nog kan worden geïntervenieerd, 
+aan de studentbegeleider en studentendecaan te melden. De melding heeft tot doel de 
+studievertraging als gevolg van de omstandigheden te beperken en, indien naar het oordeel 
+van de studentbegeleider en/of studentendecaan nodig, individuele afspraken over 
+begeleiding te maken. De persoonlijke omstandigheden worden volledig opgesomd in  
+Artikel 2.1 Uitvoeringsbesluit WHW 2008. Windesheim zorgt voor adequate begeleiding die 
+passend is bij de gemelde persoonlijke omstandigheden. Indien de student deze begeleiding 
+niet accepteert of zich niet houdt aan de gemaakte afspraken, ligt het risico op 
+studievertraging bij de student 
+ 
+5.2 
+KWALITEIT EN STUDEERBAARHEID 
+ 
+De term studeerbaarheid is feitelijk te omschrijven als de mogelijkheid voor studenten om 
+aan de eisen van de Wet Studie Financiering te voldoen, dus om 60 studiepunten, European 
+Credits (ec’s), per studiejaar te halen. 
+ 
+
+
+ 
+ 
+26 
+ 
+Een studiejaar is opgebouwd uit 2 semesters, elk semester bestaat uit 30EC. Een semester 
+is veelal opgebouwd in twee periodes waarin de studielast zo gelijk mogelijk verdeeld is. 
+ 
+Binnen ieder semester is nagedacht over de verdeling van studielast over de verschillende 
+soorten les- en toetsvormen als tentamens, assessments, kennismetingen, theoriecolleges, 
+werkcolleges, practica en integrale projecten. 
+ 
+5.3 
+EVALUATIE VAN HET ONDERWIJS 
+ 
+Evaluatie 
+De opleiding evalueert iedere periode/ ieder semester het onderwijs. De doelen van de 
+evaluaties zijn tweeledig: ten eerste is het strategische doel het optimaliseren van de 
+kwaliteit van het onderwijs. Hierbij wordt de PDCA-cyclus (Plan, Do, Check, Act) gehanteerd. 
+Ten tweede heeft elk evaluatieonderzoek een operationeel doel, zoals het signaleren van 
+mogelijke problemen. De opleidingsevaluaties hebben met name betrekking op het meten, 
+bespreken en verbeteren van de onderwijskwaliteit. De uitkomsten en verbeteracties worden 
+gepubliceerd op de opleidingssite. 
+ 
+Een landelijke enquête en graadmeter voor de studenttevredenheid is de Nationale 
+Studenten Enquête die afgenomen wordt onder alle huidige studenten. Tot slot ontvangen 
+afgestudeerden een vragenlijst van de hbo-monitor. Dit is een landelijk onderzoek dat kijkt 
+naar de aansluiting van de opleiding op de eisen in de beroepspraktijk. De uitkomsten van 
+de NSE en hbo-monitor worden meegenomen in de kwaliteitscyclus van de opleiding. 
+ 
+Binnen de OC worden de verbeteracties van de opleiding besproken en indien nodig worden 
+er vervolgacties uitgezet richting de leidinggevende van de desbetreffende opleiding. 
+Jaarlijks worden de bevindingen van de OC gedeeld met de directie van het domein 
+Techniek. 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+27 
+ 
+6 
+TOETSING 
+Dit hoofdstuk sluit aan op het Toetsbeleid ICT.  
+ 
+De ruggengraat van de opleiding en de toetsing zijn de leeruitkomsten. De leeruitkomsten 
+sluiten aan op de activiteiten uit de domeinbeschrijving: analyseren, adviseren, ontwerpen, 
+realiseren en manage en control. De leeruitkomsten zijn zo opgesteld dat ze voldoende 
+concreet zijn als ruggengraat voor toetsing, maar voldoende abstract zodat er ruimte is om 
+binnen ons onderwijs aan te sluiten op een grote variëteit van actuele opdrachten uit de 
+praktijk. 
+ 
+De leeruitkomsten zijn niet alleen gebaseerd op de inhoudelijke beroepsactiviteiten die een 
+ICT’er in de praktijk tegenkomt, maar ook gekoppeld aan een set van professional skills. We 
+sluiten aan op de professional skills die zijn benoemd in de domeinbeschrijving: 
+toekomstgericht organiseren, onderzoekend vermogen, persoonlijk leiderschap en 
+doelgericht interacteren. Op het gebied van persoonlijk leiderschap sluiten we aan op de 
+Inner Development Goals (Inner Development Goals – Inner Growth for Outer Change). 
+ 
+De leeruitkomsten worden ingezet als kapstok voor leren en toetsen. De leeruitkomsten 
+worden gebruikt om inzichtelijk te maken waar studenten naartoe werken en vormen zo de 
+basis voor ontwikkelingsgerichte feedback. Bij de summatieve beoordeling zijn ook deze 
+leeruitkomsten het uitgangspunt. 
+ 
+De leeruitkomsten worden getoetst in een Eenheid van Examinering (EvE). In iedere EvE 
+worden één of meerdere leeruitkomsten beoordeeld. 
+ 
+De leeruitkomsten in het eerste jaar van de opleiding sluiten aan op niveau 1 van de 
+domeinbeschrijving (taakgericht). De leeruitkomsten in jaar 2 sluiten aan op niveau 2 
+(probleemgericht) en de leeruitkomsten in jaar 3 sluiten aan op niveau 3 (situatiegericht). De 
+leeruitkomsten in de vrije ruimte mogen ook aansluiten op de domeinbeschrijving, maar 
+mogen hier ook van afwijken. Zo kan een student leeruitkomsten van andere opleidingen 
+opnemen in de vrije ruimte van de ICT-opleiding. 
+ 
+Vanaf cohort 2024 maken we voor de toetsing gebruik van de principes van 
+Programmatisch Toetsen (van Schilt-Mol, Baartman (2025). Studenten moeten aan het eind 
+van een semester leeruitkomsten aantonen. Dit doen ze door tijdens een semester 
+verschillende opdrachten uit te voeren en prestaties te leveren. Student krijgt hier feedback 
+op van de docent. De geleverde prestatie en de feedback hierop zijn datapunten. Het geheel 
+van datapunten geeft inzicht hoe de student ervoor staat in de ontwikkeling van de 
+leeruitkomsten. 
+ 
+6.1 
+GEBRUIK VAN GENERATIEVE A.I. IN HET ONDERWIJS 
+Gebruik van GenAI op Windesheim is in principe toegestaan voor 
+beroepsproducten/toetsen/opdrachten die thuis gemaakt kunnen worden tenzij anders is 
+vermeld in de studiewijzer. Uitgangspunt op Windesheim is (en blijft) dat de student volledig 
+verantwoordelijk is voor de inhoud van wat de student inlevert. De student is te allen tijden 
+verantwoordelijk voor het feit dat het ingeleverde werk de eigen leeruitkomsten en 
+competenties weerspiegelt.  
+  
+GenAI is in werkstukken/opdrachten NIET acceptabel als bron van informatie (tenzij de 
+docent voor specifieke opdrachten een expliciete uitzondering maakt). 
+  
+
+
+ 
+ 
+28 
+ 
+Informatie die GenAI geeft, dient altijd gecheckt te worden op basis van bronnen die wel 
+betrouwbare informatie geven. Informatie die bevestigd wordt door betrouwbare bronnen 
+wordt met deze bronnen onderbouwd en niet met GenAI. 
+  
+Studenten hebben de plicht om gebruik van en wijze van gebruik van GenAI bij 
+beroepsproducten te melden. 
+  
+Tijdens toetsen die afgenomen worden op Windesheim is toegang tot GenAI verboden, 
+tenzij op het voorblad is aangegeven wat er wel is toegestaan. 
+ 
+Om studenten en docenten houvast te bieden bij het verantwoord inzetten van Al in het 
+onderwijs, maken we binnen de opleiding gebruik van de Al Assessment Scale (AIAS). Deze 
+schaal beschrijft vijf niveaus van Al-gebruik bij leer- en toetsopdrachten, variërend van 
+toetsen in een tentamensetting waarbij geen AI mag worden gebruikt (niveau 1) tot aan 
+toetsen in een setting waarin het verkennen van innovatieve Al-toepassingen juist wordt 
+aangemoedigd (niveau 5).  Van alle datapunten is aangegeven op welk niveau op de AIAS-
+schaal het gebruik van AI is toegestaan. 
+ 
+6.2 
+TOETSVORMEN 
+Binnen de opleiding onderscheiden we schriftelijke tentamens (open vragen of multiple 
+choice), mondelinge toetsen, presentaties, practica, verslagen en portfolioassessments 
+(inlevertaak in combinatie met een mondeling tentamen/criteriumgericht interview). Voor 
+het onderwijs tot cohort 2024 is aangegeven in Educator wat de betreffende toetsvorm is. 
+Voor het onderwijs dat werkt met de principes van programmatisch toetsen (vanaf cohort 
+2024) geldt dat deze vormen worden aangegeven bij de datapunten in de toetsplannen.  
+ 
+Op het moment dat er sprake is van AIAS-schaal 1 of 2 vindt een opdracht altijd plaats in 
+een afgeschermde omgeving. Dit kan in het geval van verslagen of schriftelijke opdrachten 
+bijvoorbeeld een opdracht zijn die wordt uitgevoerd met behulp van Schoolyear. Met 
+Schoolyear wordt de eigen laptop tijdelijk afgeschermd van bepaalde internetsites en tools 
+zodat de student ook niet in de gelegenheid wordt gesteld gebruik te maken van AI. 
+ 
+6.3 
+EINDNIVEAU 
+Het eindniveau wordt aangetoond via een meesterproef: de afstudeeropdracht. Tijdens het 
+afstuderen toont de student aan gedurende een half jaar, zelfstandig binnen een ICT-
+organisatie een opdracht binnen de gekozen afstudeerrichting te kunnen afronden. De 
+leeruitkomsten sluiten hierbij aan op de activiteiten van het hbo-i. De nadruk bij de 
+beoordeling ligt op de professionele vaardigheden. 
+ 
+6.4 
+TOETSPLANNING, KANSEN EN GELEGENHEDEN 
+Voor onderwijseenheden die niet programmatisch worden getoetst geldt dat er altijd 2 
+toetskansen per jaar worden aangeboden. Bij onderwijseenheden die programmatisch 
+worden getoetst is er conform artikel 26 lid 5 van het instellingsdeel slechts één kans 
+binnen het studiejaar. Als onderwijseenheden in beide semesters worden aangeboden kan 
+een semester wel een tweede keer gevolgd worden en zijn er feitelijk 2 toetskansen per jaar.  
+Er zijn meerdere datapunten die inzicht geven in de ontwikkeling en de prestatie op de 
+leeruitkomst. Het geheel van prestaties en feedback geeft een beeld over het wel of niet 
+slagen op de onderwijseenheid. Omdat er binnen het semester meerdere datapunten 
+aansluiten op de leeruitkomst is het ook mogelijk datapunten te missen. Een student kan 
+dan met de overige datapunten alsnog aantonen de leeruitkomst in voldoende mate te 
+beheersen. De herkansingsmogelijkheid zit zo al in het onderwijssysteem ingebouwd. 
+ 
+
+
+ 
+ 
+29 
+ 
+Als de student na het niet behalen van een semester ervoor kiest deze opnieuw te doen 
+dienen alle opdrachten opnieuw te worden gedaan of gemaakt waarbij een andere 
+inhoudelijke context geldt. Ook zal de student in dat geval opnieuw deelnemen aan alle 
+kennismetingen. 
+Aansluitend op hoofdstuk 7 artikel 26 lid 5 van het instellingsdeel OER geldt ook het 
+afstuderen als bijzonder geval waarbij het mogelijk is dat de herkansing in een nieuw 
+studiejaar valt en er dus sprake is van één kans per jaar. Dit betreft het geval dat het 
+afstuderen gestart is in februari en de herkansing niet voor de zomer kan worden afgerond. 
+In dat geval worden herkansingen in het volgende studiejaar gepland. In andere gevallen zijn 
+er ook voor het afstuderen twee kansen per jaar. 
+ 
+6.5 
+TOETSPROGRAMMA EN ALTERNATIEVEN 
+In het toetsprogramma staat welke leeruitkomsten in welk semester worden getoetst en op 
+welke wijze. Voor de onderwijseenheden die niet via programmatisch toetsen worden 
+getoetst is hier te vinden uit welke eventuele deeltoetsen de toetsing bestaat en wat de 
+weging tussen de deelcijfers is om tot een eindoordeel te komen. Voor iedere 
+onderwijseenheid is er een toetsplan opgenomen op de Brightspace-omgeving. In dit 
+toetsplan bij het programmatisch onderwijs is te zien welke datapunten er zijn, wat voor 
+soort datapunt dit betreft en hoe de verschillende datapunten gekoppeld zijn aan de 
+leeruitkomsten. 
+ 
+6.6 
+IN- EN UITTEKENEN 
+De student dient in te tekenen voor plenaire toetsen met open / gesloten vragen, in grotere 
+groepen afgenomen. 
+ 
+Een overzicht van de toetsmomenten is te vinden in de toetsjaarplanning. Intekenen voor 
+toetsen is mogelijk via Educator.  
+ 
+Tijdlijn intekenen en uittekenen  
+De eerste twee weken van een lesperiode kan de student zich intekenen voor toetsen in de 
+eerstvolgende uitvoerperiode (toetsweken). In periode 4 geldt de uitvoerperiode tot aan de 
+zomervakantie. Het overzicht van inteken- en uitvoerperiodes is te vinden op de site van de 
+opleiding onder Alles over Toetsen > Toetsjaarplanning. De student kan hier zien in welke 
+week de toets plaatsvindt en in welke periode de student zich voor de toets kan intekenen.   
+Intekenen na het verstrijken van de deadline is niet mogelijk. 
+ 
+Vallen er twee kansen in dezelfde uitvoerperiode? Dan tekent de student zich voor beide 
+kansen in. De student wordt automatisch uitgetekend voor de tweede toetskans als er een 
+voldoende wordt gehaald op de eerste toets binnen dezelfde uitvoerperiode.  
+ 
+Kansenregistratie  
+• 
+Niet ingetekend, is geen deelname aan de toets. De student verbruikt geen 
+toetskans. Afhankelijk van het aantal beschikbare toetsmomenten, loopt de student 
+het risico niet alle toetskansen te kunnen benutten. 
+• 
+Wel ingetekend, maar geen deelname aan de toets, dan is een toetskans verbruikt.  
+• 
+Wel ingetekend, maar tijdig uitgetekend. De student verbruikt geen toetskans. 
+Afhankelijk van het aantal beschikbare toetsmomenten, loopt de student het risico 
+niet alle toetskansen te kunnen benutten. 
+ 
+Uittekenen 
+
+
+ 
+ 
+30 
+ 
+Alleen tijdens de intekenperiode kan de student zich uittekenen (intekening ongedaan 
+maken) voor deelname aan een toets.  
+ 
+Niet op tijd ingetekend?  
+Als de student zich niet heeft ingetekend, dan mag de student niet deelnemen aan de toets. 
+Als de student door middel van bewijslast kan aantonen dat deze met een geldige reden niet 
+kon intekenen, dan kan de student een verzoek indienen bij de examencommissie van de 
+opleiding om alsnog ingetekend te worden voor een toets.  
+ 
+Voorzieningen aanvragen  
+Indien de student met de decaan heeft overlegd recht te hebben op extra voorzieningen 
+tijdens een toets vanwege een functiebeperking, dan dient de student deze voorziening 
+tegelijk met het intekenen op de betreffende toets aan te vragen.  
+ 
+Uitzonderingen  
+Bij persoonlijke omstandigheden kunnen uitzonderingen via de examencommissie worden 
+aangevraagd. Regels betreffende het aanvragen van een extra toetskans staan nader 
+uitgewerkt in het reglement examencommissie. Betreft de afmelding de herkansing, dan kan 
+de student een verzoek indienen bij de examencommissie voor een extra toetskans 
+ 
+Als de student ziek is of er is sprake van overmacht waardoor de student geen toets kan 
+maken, dan meldt de student zich ook af bij het Servicepunt Techniek.  
+ 
+Voor vragen rondom intekenen op toetsing kan de student terecht bij het Servicepunt 
+Techniek op T2. 
+ 
+ 
+ 
+
+
+ 
+ 
+31 
+ 
+7 
+OVERZICHT ONDERWIJSEENHEDEN 
+ 
+7.1 
+OVERZICHT ONDERWIJSEENHEDEN 
+ 
+Per onderwijseenheid worden de volgende onderdelen beschreven of aangegeven: de 
+betreffende opleiding(en), de competentie(s) / leeruitkomsten (beroeps-, hbo- 
+competenties), het onderwijsdoel, de ingangseisen (indien van toepassing), de werk-
+ en toetsvormen, de toetsnorm, de beoordelingsnormen, het niveau (basis, gevorderd of 
+bachelor), het aantal studiepunten en de verplichte literatuur.  
+ 
+Een overzicht van de onderwijseenheden, verdeeld over de propedeuse en hoofdfase staat 
+op de SharePoint-pagina van de opleiding. 
+ 
+7.2 
+OVERGANGSREGELING 
+ 
+Op de SharePoint-pagina van de opleiding, onder het kopje Reglementen, staat de 
+overgangsregeling met hierin de informatie wanneer bepaalde onderwijseenheden niet 
+langer worden aangeboden of veranderd zijn. 
+ 
+ 
+ 
+
+
+ 
+ 
+32 
+ 
+8 
+ACCREDITATIE 
+ 
+Bij besluit van 4 februari 2025 (NVAO) is de opleiding geaccrediteerd voor onbepaalde tijd. 
+De inleverdatum van het volgende visitatierapport is vastgesteld op 1 november 2030 
+ 
+ 
+ 
+
+
+ 
+ 
+33 
+ 
+9 
+TOT SLOT 
+ 
+9.1 
+BEZWAAR EN BEROEP 
+Tegen besluiten op grond van deze regeling genomen staat beroep open bij het College van 
+Beroep voor de Examens Windesheim. Het reglement van het College van Beroep voor de 
+Examens Windesheim maakt deel uit van het Instellingsdeel Studentenstatuut. 
+ 
+9.2 
+BIJLAGEN BIJ ONDERWIJS- EN EXAMENREGELING 
+De bij deze regeling behorende uitwerkingen vormen tezamen met deze regeling de 
+Onderwijs- en Examenregeling van de opleiding. 
+ 
+9.3 
+NIET VOORZIENE SITUATIES 
+In de gevallen waarin dit Opleidingsdeel Onderwijs- en Examenregeling niet voorziet, beslist 
+de directeur van het domein. 
+ 
+9.4 
+INWERKINGTREDING, OPENBAARMAKING, LOOPTIJD EN VASTSTELLING 
+Dit Opleidingsdeel Onderwijs- en Examenregeling behoort tot het Opleidingsdeel 
+studentenstatuut. Deze regeling treedt in werking op 1 september 2026 en loopt tot 1 
+september 2027. Deze regeling is openbaar gemaakt op www.windesheim.nl / 
+www.windesheimflevoland.nl. 
+ 
+Het Opleidingsdeel Onderwijs- en Examenregeling van de bachelor ICT voltijd locatie 
+Zwolle is namens het College van Bestuur door de domeindirecteur op dd. 2 juli 2026 
+vastgesteld, na instemming op de instemmingsgerechtigde delen in dit Opleidingsdeel 
+Onderwijs- en Examenregeling door de opleidingscommissie en de deelraad en na het 
+advies van de opleidingscommissie over de delen in dit Opleidingsdeel Onderwijs- en 
+Examenregeling waarop ze geen instemming heeft. De instemming van de 
+opleidingscommissie is verleend op dd. 2 juli 2026, de instemming van de deelraad is 
+verleend op dd.2 juli 2026. 
+ 
+ 
+ 
+ 
+Egon van der Veer MSc. 
+Directeur van het domein Techniek 
+2-7-2026  
+ 
+
+

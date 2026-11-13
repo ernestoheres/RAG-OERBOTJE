@@ -1,0 +1,3 @@
+# Use "auto", "cuda", or "cpu".
+device = "auto"
+llm_id = "unsloth/Llama-3.2-1B-Instruct"
