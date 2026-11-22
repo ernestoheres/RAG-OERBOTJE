@@ -20,6 +20,9 @@ dependencies = [
   "pvlib",
   "polars",
   "transformers",
+  # OPUS-MT / Marian translation tokenizer.
+  "sentencepiece>=0.2,<0.3",
+  "sacremoses>=0.1,<0.2",
   "semantic-kernel",
   "historicdutchweather",
   "pip>=25,<27",
@@ -46,6 +49,15 @@ dependencies = [
   "hdbscan>=0.8.44",
   "umap-learn>=0.6.0",
   "datamapplot>=0.7.3",
+  "ragas>=0.4.3",
+  "diskcache>=5.6.3,<6",
+  "instructor>=1.7,<2",
+  "openai>=1.109.1,<2",
+  # Ragas 0.4 imports legacy VertexAI classes removed in newer community releases.
+  "langchain-community>=0.3,<0.4",
+  "accelerate>=1,<2",
+  "bitsandbytes>=0.50.2,<0.51",
+  "python-dotenv>=1,<2",
 ]
 
 [tool.uv]

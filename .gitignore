@@ -2,4 +2,12 @@
 PG_DATA/
 __marimo__/
 __pycache__/
-
+/.cache/
+ragas.toml
+.env
+.env.*
+!.env.example
+/Data/baseline_answers.json
+/Data/baseline_scores.json
+/Data/ablation_*_answers.json
+/Data/ablation_*_scores.json

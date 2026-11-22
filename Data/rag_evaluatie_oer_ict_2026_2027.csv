@@ -1,0 +1,101 @@
+﻿id,categorie,vraag,antwoord,bron_pagina
+1,OER en opleiding,Voor welke opleiding en locatie geldt dit opleidingsdeel?,Voor de voltijdse bacheloropleiding ICT in Zwolle.,4
+2,OER en opleiding,Voor welk studiejaar geldt deze OER?,Voor studiejaar 2026-2027.,4
+3,OER en opleiding,Wanneer gaat deze regeling in en wanneer eindigt zij?,Van 1 september 2026 tot 1 september 2027.,4
+4,OER en opleiding,Uit welke twee delen bestaat de OER?,Uit het instellingsdeel en het opleidingsdeel.,4
+5,OER en opleiding,Welke regels gelden bij strijdigheid tussen beide delen van de OER?,De regels van het instellingsdeel gelden.,4
+6,OER en opleiding,Waarom wordt de OER jaarlijks vastgesteld?,Om de actualiteit van het onderwijs en curriculum te borgen.,4-5
+7,OER en opleiding,Hoeveel studiepunten omvat de bachelor ICT?,240 EC.,12
+8,OER en opleiding,Hoeveel EC zijn de propedeuse en de hoofdfase waard?,De propedeuse omvat 60 EC en de hoofdfase 180 EC.,12
+9,OER en opleiding,Wanneer moet een voltijdstudent beschikbaar zijn voor onderwijs?,Van maandag tot en met vrijdag; onderwijs vindt hoofdzakelijk overdag plaats tussen 8.30 en 18.30 uur.,12
+10,OER en opleiding,Op welke momenten kun je met de opleiding ICT starten?,In september of februari.,12-13
+11,Onderwijsvisie en competenties,Welke vijf kernbegrippen kenmerken de opleiding?,"Betrokkenheid, praktijkgerichtheid, keuzevrijheid, waarde(n)volle professional en loopbaangerichte begeleiding.",6
+12,Onderwijsvisie en competenties,Wat zijn de vier pijlers van de onderwijsvisie?,"Een sterke kennisbasis, actuele opdrachten uit de praktijk, samenwerken in multidisciplinaire teams en metacognitie.",7
+13,Onderwijsvisie en competenties,Vanaf welk cohort werkt de opleiding volgens de principes van programmatisch onderwijs?,Vanaf cohort 2024.,7
+14,Onderwijsvisie en competenties,Welke drie dimensies onderscheidt de HBO-i-domeinbeschrijving?,"Beheersingsniveaus, activiteiten en architectuurlagen.",7
+15,Onderwijsvisie en competenties,Welke drie facetten bepalen het beheersingsniveau?,"Complexiteit van de context, complexiteit van de inhoud en zelfstandigheid bij de uitvoering.",8
+16,Onderwijsvisie en competenties,Wanneer is volgens de OER een beheersingsniveau bereikt?,Wanneer twee van de drie facetten op het betreffende niveau liggen.,8
+17,Onderwijsvisie en competenties,Welke vijf HBO-i-activiteiten worden genoemd?,"Analyseren, adviseren, ontwerpen, realiseren en manage & control.",8
+18,Onderwijsvisie en competenties,Welke vijf architectuurlagen worden genoemd?,"Gebruikersinteractie, organisatieprocessen, infrastructuur, software en hardware interfacing.",9
+19,Onderwijsvisie en competenties,Hoe omschrijft de OER de activiteit realiseren?,Het realiseren en testen van een geheel of deel van een ICT-systeem op basis van een ontwerp.,9
+20,Onderwijsvisie en competenties,Welke vier professional skills noemt de opleiding?,"Toekomstgericht organiseren, onderzoekend vermogen, persoonlijk leiderschap en doelgericht interacteren.",27
+21,Propedeuse en doorstroom,Hoeveel EC zijn de semesters Basisconcepten ICT 1 en 2 elk waard?,Elk semester is 30 EC waard.,14
+22,Propedeuse en doorstroom,Wat is de ingangseis voor Basisconcepten ICT 2?,Basisconcepten ICT 1 moet zijn behaald.,14
+23,Propedeuse en doorstroom,Hoeveel architectuurlagen komen in het eerste propedeusesemester aan bod?,"Alle vijf, in vijf opeenvolgende blokken.",13
+24,Propedeuse en doorstroom,Wat gebeurt er halverwege het eerste propedeusesemester?,Er is een medium-stake-tussenevaluatie: de student beoordeelt zichzelf en docenten vullen dit aan of corrigeren het.,13
+25,Propedeuse en doorstroom,Door hoeveel docenten wordt de high-stake aan het einde van het eerste semester beoordeeld?,Door minimaal twee docenten.,13
+26,Propedeuse en doorstroom,Wat krijgt een student bij een positieve high-stakebeoordeling van het eerste semester?,30 EC en toegang tot het volgende semester.,13
+27,Propedeuse en doorstroom,Wat gebeurt er als het eerste propedeusesemester onvoldoende is beoordeeld?,De student volgt het semester opnieuw met een nieuwe casus; die beoordeling geldt als herkansing en levert een half jaar vertraging op.,13
+28,Propedeuse en doorstroom,Wat is de formele doorstroomnorm van propedeuse naar hoofdfase?,50 EC uit de propedeuse.,14
+29,Propedeuse en doorstroom,Waarom moet een ICT-student in de huidige propedeuse in de praktijk 60 EC halen om door te stromen?,"Omdat in de propedeuse alleen 0, 30 of 60 EC kunnen worden behaald en 30 EC onder de norm van 50 EC ligt.",14
+30,Propedeuse en doorstroom,Wat geldt voor doorstroom naar de hoofdfase voor studenten tot en met cohort 2023?,Zij mogen onderdelen van de hoofdfase volgen zodra zij 50 EC uit de propedeuse hebben behaald.,14
+31,Semesters en toelating,Wanneer wordt Data Science aangeboden voor studenten vanaf cohort 2024?,"In semester 2, van februari tot juli.",15
+32,Semesters en toelating,Welke voorkennis is voor Data Science vanaf cohort 2024 nodig naast een behaalde propedeuse?,"Cybersecurity, OO Software Design & Development of Business Process Management moet zijn gevolgd.",15
+33,Semesters en toelating,Wat is de ingangseis voor Internet of Things vanaf cohort 2024?,"Microcontrollers moet zijn gevolgd, naast een behaalde propedeuse.",15
+34,Semesters en toelating,Welk semester moet je hebben gevolgd voor Web Development vanaf cohort 2024?,"OO Software Design & Development, naast een behaalde propedeuse.",15
+35,Semesters en toelating,Welk semester moet je hebben gevolgd voor Cloud Automation vanaf cohort 2024?,"Cybersecurity, naast een behaalde propedeuse.",15
+36,Semesters en toelating,Wat zijn de ingangseisen voor Artificial Intelligence vanaf cohort 2024?,"De propedeuse moet behaald zijn; daarnaast moet minimaal 120 EC uit de beroepsruimte zijn gevolgd waarvan 90 EC behaald, en Data Science zijn gevolgd of extra reparatieonderwijs worden gevolgd.",15
+37,Semesters en toelating,Welk niveau heeft Artificial Intelligence volgens tabel 6?,Niveau 3.,15
+38,Semesters en toelating,Wanneer wordt Artificial Intelligence vanaf cohort 2024 aangeboden?,"In semester 1, van september tot januari.",15
+39,Semesters en toelating,Wat zijn de ingangseisen voor Cloud Security Governance vanaf cohort 2024?,De propedeuse en Cybersecurity moeten behaald zijn en Data Science of Cloud Automation moet zijn gevolgd.,15
+40,Semesters en toelating,Wanneer wordt Computer Engineering volgens tabel 6 voor het eerst aangeboden?,"Vanaf 1 september 2027, in semester 1.",16
+41,Stage en afstuderen,Hoeveel EC is een volledig stagesemester waard?,30 EC.,18
+42,Stage en afstuderen,Wie begeleidt de student tijdens een stage?,Het stagebedrijf begeleidt de student.,18
+43,Stage en afstuderen,Mag een student zelf een stageopdracht voordragen?,"Ja, dat is mogelijk.",18
+44,Stage en afstuderen,Met wie neemt een student contact op voor een stage in het buitenland?,Met de coördinator internationalisering.,18
+45,Stage en afstuderen,Mogen een binnenlandse en een buitenlandse stage allebei worden gevolgd?,"Ja, dit zijn verschillende semesters.",18
+46,Stage en afstuderen,Hoeveel EC is de praktijkopdracht die meetelt voor de vrije ruimte waard?,15 EC; de opdracht is op niveau 2.,18
+47,Stage en afstuderen,Waar wordt de gekozen afstudeerrichting vermeld?,Op het getuigschrift.,18
+48,Stage en afstuderen,Welke commissie controleert of een student mag starten met afstuderen?,De examencommissie.,20
+49,Stage en afstuderen,Wanneer geeft de examencommissie volgens de standaardregel toestemming om af te studeren?,"Als alle overige onderdelen uit de beroepsruimte, samen 150 EC, zijn afgerond.",20
+50,Stage en afstuderen,Mag een student nog een semester vrije ruimte volgen na de afstudeeropdracht?,"Ja, dat is mogelijk.",20
+51,Afstudeerrichtingen,Welke algemene eindniveaueisen gelden voor de bachelor ICT?,"De propedeuse, minimaal twee niveau-2-semesters, minimaal één niveau-3-semester en het afstuderen moeten behaald zijn; tot cohort 2024 gelden ook vier verplichte PV-modules.",19
+52,Afstudeerrichtingen,Welke semesters zijn vanaf cohort 2024 vereist voor Applied Data Science & AI?,"Business Process Management of OO Software Design & Development, Data Science, Artificial Intelligence en afstuderen ADSAI moeten zijn behaald, naast de algemene eisen.",19
+53,Afstudeerrichtingen,Is Data Science verplicht voor de afstudeerrichting Applied Data Science & AI vanaf cohort 2024?,"Ja, Data Science moet zijn behaald, naast de overige specifieke en algemene eisen.",19
+54,Afstudeerrichtingen,Welke niveau-3-onderwijseenheid is vanaf cohort 2024 vereist voor Software Engineering?,"Quality in Software Development moet zijn behaald, naast de overige eisen.",20
+55,Afstudeerrichtingen,Welke keuze uit drie semesters geldt vanaf cohort 2024 voor Software Engineering?,"Web Development, User Interaction of Data Science moet zijn behaald, naast de overige eisen.",20
+56,Afstudeerrichtingen,Welke niveau-3-onderwijseenheid is vanaf cohort 2024 vereist voor Cloud and Security Engineering?,"Cloud Security Governance moet zijn behaald, naast de overige eisen.",19
+57,Afstudeerrichtingen,Welke twee alternatieven gelden vanaf cohort 2024 naast Cybersecurity voor Cloud and Security Engineering?,"Cloud Automation of Data Science moet zijn behaald, naast de overige eisen.",19
+58,Afstudeerrichtingen,Welk semester is voor Business IT & Management vanaf cohort 2024 verplicht op niveau 3?,"Management of IT moet zijn behaald, naast de overige eisen.",19
+59,Afstudeerrichtingen,Welke niveau-3-onderwijseenheid is vereist voor User Experience Design vanaf cohort 2024?,"User Experience Research & Innovation moet zijn behaald, naast de overige eisen.",20
+60,Afstudeerrichtingen,Kunnen studenten tot en met cohort 2023 afstuderen zonder vermelding van een afstudeerrichting?,"Ja, na een gemotiveerd verzoek vooraf en een besluit van de examencommissie na advies van de curriculumcommissie.",18
+61,Vrije ruimte en buitenland,Hoe groot is de vrije ruimte in de bachelor ICT?,60 EC.,21
+62,Vrije ruimte en buitenland,Welk minimumniveau geldt voor onderwijs in de vrije ruimte?,Minimaal EQF-niveau 5.,21
+63,Vrije ruimte en buitenland,Welke overlap is bij de invulling van de vrije ruimte niet toegestaan?,"Ongewenste overlap van leerdoelen, competenties of leeruitkomsten met het curriculum.",21
+64,Vrije ruimte en buitenland,Mag je de vrije ruimte vullen met onderwijs van een andere opleiding?,"Ja, bij een andere Windesheimopleiding of via Kies op Maat bij een andere hogeschool; de invulling moet aan de examencommissie worden voorgelegd.",22
+65,Vrije ruimte en buitenland,Wanneer wijst de examencommissie een voorstel met onderwijs van een andere opleiding voor de vrije ruimte af?,Bij ongewenste overlap met de beroepsruimte of als het onderwijs niet minimaal EQF-niveau 5 heeft.,22
+66,Vrije ruimte en buitenland,Mag je een premaster volgen binnen de vrije ruimte?,"Ja, met toestemming van de examencommissie; neem eerst contact op met de premastercoördinator van ICT.",22
+67,Vrije ruimte en buitenland,Controleert de examencommissie bij een premaster op overlap?,"Ja, de examencommissie controleert op ongewenste overlap in het premasterprogramma.",22
+68,Vrije ruimte en buitenland,Welke ingangseis geldt voor IT Lab vanaf cohort 2024?,De propedeuse moet zijn behaald.,21
+69,Vrije ruimte en buitenland,Welke ingangseis geldt voor Stage in tabel 11 vanaf cohort 2024?,"Minimaal 120 EC uit de beroepsruimte gevolgd, waarvan 90 EC behaald.",22
+70,Vrije ruimte en buitenland,Wanneer wordt IT Lab vanaf cohort 2024 aangeboden?,In semester 2.,21
+71,Begeleiding en studeerbaarheid,Met wie bespreek je eerst een voorgenomen overstap van voltijd naar deeltijd?,"Met de studentbegeleider, de sb'er.",25
+72,Begeleiding en studeerbaarheid,Welke aanvullende voorwaarde geldt voor overstappen naar de deeltijdopleiding?,De student moet een relevante werkplek en de nodige praktijkervaring hebben.,25
+73,Begeleiding en studeerbaarheid,Waar kan een student een verzoek indienen om van ICT-afstudeerrichting te wisselen?,Via ictstudievoortgang@windesheim.nl.,25
+74,Begeleiding en studeerbaarheid,Wat moet een student doen bij verwachte studievertraging door persoonlijke omstandigheden?,"Dit tijdig melden bij de studentbegeleider en de studentendecaan, zodat begeleiding en zo nodig individuele afspraken mogelijk zijn.",25
+75,Begeleiding en studeerbaarheid,Wie begeleidt studenten met meer dan een jaar vertraging?,Een coördinator Langstuderen.,25
+76,Begeleiding en studeerbaarheid,Wat stellen langstudeerders samen met de coördinator op?,Een haalbaar studiecontract om de studie weer op te pakken en aanspraak te maken op extra begeleiding.,25
+77,Begeleiding en studeerbaarheid,Hoeveel EC bestaat een studiejaar uit en hoe zijn die verdeeld?,"60 EC, verdeeld over twee semesters van elk 30 EC.",25-26
+78,Begeleiding en studeerbaarheid,Wat moet een student met dyslexie doen als die alleen extra tentamentijd wil?,Het formulier Melding functiebeperking invullen.,24
+79,Begeleiding en studeerbaarheid,Wat is het doel van het gesprek over een functiebeperking?,"De student leren kennen, informeren, adviseren en passende voorzieningen organiseren.",24
+80,Begeleiding en studeerbaarheid,Waar worden uitkomsten van onderwijsevaluaties en verbeteracties gepubliceerd?,Op de opleidingssite.,26
+81,GenAI en toetsing,Mag je generatieve AI gebruiken voor opdrachten die thuis gemaakt kunnen worden?,"In principe wel, tenzij de studiewijzer anders vermeldt. De student blijft verantwoordelijk voor de inhoud en voor het aantonen van eigen leeruitkomsten en competenties.",27
+82,GenAI en toetsing,Mag GenAI als informatiebron in werkstukken worden gebruikt?,"Nee, tenzij de docent voor een specifieke opdracht expliciet een uitzondering maakt.",27
+83,GenAI en toetsing,Wat moet je doen met informatie die generatieve AI geeft?,Controleren aan de hand van betrouwbare bronnen en bevestigde informatie met die bronnen onderbouwen.,28
+84,GenAI en toetsing,Moet je het gebruik van GenAI bij beroepsproducten melden?,"Ja, zowel het gebruik als de wijze van gebruik moet worden gemeld.",28
+85,GenAI en toetsing,Mag je tijdens een toets op Windesheim GenAI gebruiken?,"Toegang is verboden, tenzij op het voorblad staat wat wel is toegestaan.",28
+86,GenAI en toetsing,Hoeveel niveaus bevat de AI Assessment Scale volgens de OER?,Vijf niveaus.,28
+87,GenAI en toetsing,Wat geldt voor opdrachten op AIAS-niveau 1 of 2?,Die vinden altijd plaats in een afgeschermde omgeving.,28
+88,GenAI en toetsing,Wat is een datapunt bij programmatisch toetsen?,"Een geleverde prestatie en de feedback daarop, die samen inzicht geven in de ontwikkeling van leeruitkomsten.",27
+89,GenAI en toetsing,Hoeveel toetskansen per jaar zijn er voor niet-programmatisch getoetste onderwijseenheden?,Er worden altijd twee toetskansen per jaar aangeboden.,28
+90,GenAI en toetsing,Hoeveel kansen per studiejaar gelden normaal voor programmatisch getoetste onderwijseenheden?,"Eén kans binnen het studiejaar; als het semester in beide semesters wordt aangeboden, kan het opnieuw worden gevolgd en zijn er feitelijk twee kansen per jaar.",28
+91,Toetskansen en administratie,Kun je een leeruitkomst bij programmatisch toetsen nog aantonen als je datapunten mist?,"Ja, met de overige datapunten kan de student de leeruitkomst mogelijk alsnog voldoende aantonen.",28
+92,Toetskansen en administratie,Wat moet je opnieuw doen als je een niet-behaald programmatisch semester opnieuw volgt?,Alle opdrachten opnieuw maken in een andere inhoudelijke context en opnieuw deelnemen aan alle kennismetingen.,29
+93,Toetskansen en administratie,Waar vind je per onderwijseenheid het toetsplan?,Op de Brightspace-omgeving.,29
+94,Toetskansen en administratie,Hoe schrijf je je in voor plenaire toetsen met open of gesloten vragen?,"Via Educator, tijdens de intekenperiode.",29
+95,Toetskansen en administratie,Wanneer kun je je normaal intekenen voor toetsen in de eerstvolgende uitvoerperiode?,Tijdens de eerste twee weken van een lesperiode.,29
+96,Toetskansen en administratie,Mag je je na de deadline nog intekenen voor een toets?,Nee; bij een aantoonbare geldige reden kan een verzoek aan de examencommissie worden gedaan om alsnog te worden ingetekend.,29-30
+97,Toetskansen en administratie,Verbruik je een toetskans als je bent ingetekend maar niet deelneemt?,"Ja, dan is een toetskans verbruikt.",29
+98,Toetskansen en administratie,Verbruik je een toetskans als je je tijdig uittekent?,"Nee, dan verbruik je geen toetskans.",29
+99,Toetskansen en administratie,Wanneer vraag je een met de decaan afgestemde toetsvoorziening wegens een functiebeperking aan?,Tegelijk met het intekenen voor de betreffende toets.,30
+100,Toetskansen en administratie,Waar meld je je af als ziekte of overmacht je verhindert een toets te maken?,Bij het Servicepunt Techniek.,30

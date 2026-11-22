@@ -1,0 +1,4 @@
+# Copy to ragas.toml and fill in your OpenRouter key, or set OPENROUTER_API_KEY.
+# Model IDs use OpenRouter's provider/model format.
+openrouter_api_key = ""
+model = "openai/gpt-4.1-mini"
